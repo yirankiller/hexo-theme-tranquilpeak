@@ -4,7 +4,7 @@
   
   <link href="/tranquil-peak-hexo-theme//atom.xml" rel="self"/>
   <link href="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/"/>
-  <updated>2015-05-02T22:28:47.000Z</updated>
+  <updated>2015-05-02T23:31:18.000Z</updated>
   <id>http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2015/05/02/hello-world/"/>
     <id>http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2015/05/02/hello-world/</id>
     <published>2015-05-02T05:54:05.000Z</published>
-    <updated>2015-05-02T22:28:47.000Z</updated>
+    <updated>2015-05-02T23:31:18.000Z</updated>
     <content type="html"><![CDATA[<h1 id="Tranquil-peak_Hexo_theme">Tranquil-peak Hexo theme</h1><p>A gorgeous responsive theme for Hexo blog framework </p>
 <p><img src="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme-demo/2015/05/02/hello-world/tranquil-peak.png" alt="Tranquil Peak"></p>
 <h2 id="Summary">Summary</h2><ul>
@@ -67,11 +67,11 @@
 </ul>
 <h2 id="Quick_start">Quick start</h2><p><strong>For users</strong> :  </p>
 <ol>
-<li>Download the latest version ready for production utilisation here : [tranquil-peak-hexo-theme-v1.0.0-production]<br>(<a href="https://github.com/LouisBarranqueiro/tranquil-peak-hexo-theme/releases/download/v1.0.0/tranquil-peak-hexo-theme-v1.0.0-production.zip" target="_blank" rel="external">https://github.com/LouisBarranqueiro/tranquil-peak-hexo-theme/releases/download/v1.0.0/tranquil-peak-hexo-theme-v1.0.0-production.zip</a>) or choose an other version here : <a href="https://github.com/LouisBarranqueiro/tranquil-peak-hexo-theme/releases" target="_blank" rel="external">all releases</a>  </li>
+<li>Download the latest version ready for production utilisation here : [tranquil-peak-hexo-theme-built-for-production-1.0.0]<br>(<a href="https://github.com/LouisBarranqueiro/tranquil-peak-hexo-theme/releases/download/v1.0.0/tranquil-peak-hexo-theme-built-for-production-1.0.0.zip" target="_blank" rel="external">https://github.com/LouisBarranqueiro/tranquil-peak-hexo-theme/releases/download/v1.0.0/tranquil-peak-hexo-theme-built-for-production-1.0.0.zip</a>) or choose an other version here : <a href="https://github.com/LouisBarranqueiro/tranquil-peak-hexo-theme/releases" target="_blank" rel="external">all releases</a>  </li>
 <li>Follow <a href="https://github.com/LouisBarranqueiro/tranquil-peak-hexo-theme/blob/master/docs/user.md" target="_blank" rel="external">user documentation</a> to install and configure the theme  </li>
 </ol>
 <p><strong>For developers</strong> : Run <code>git clone https://github.com/LouisBarranqueiro/tranquil-peak-hexo-theme.git</code></p>
-<h2 id="Demo">Demo</h2><p>Check Tranquil-peak theme in live  : <a href="http://hexo-tranquil-peak-demo.herokuapp.com" target="_blank" rel="external">tranquil-peak-hexo-theme demo</a></p>
+<h2 id="Demo">Demo</h2><p>Check Tranquil-peak theme in live  : <a href="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme" target="_blank" rel="external">tranquil-peak-hexo-theme demo</a></p>
 <h2 id="Showcase">Showcase</h2><p>I would like to create a showcase with all blogs which use Tranquil-peak theme. Please, <a href="https://github.com/LouisBarranqueiro/tranquil-peak-hexo-theme/issues/new?title=Add%20my%20blog%20into%20showcase&amp;body=Hey,%20the%20URL%20of%20my%20blog%20is:%20" target="_blank" rel="external">Add yours :)</a></p>
 <h2 id="Documentation">Documentation</h2><p>If it’s your first time using Hexo, please check <a href="https://hexo.io/docs/" target="_blank" rel="external">Hexo official documentation</a></p>
 <h3 id="For_users">For users</h3><p>To install and configure the theme, consult the following documentation : <a href="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme-demo/2015/05/02/Check-official-user-documentation/" target="_blank" rel="external">user documentation</a></p>
