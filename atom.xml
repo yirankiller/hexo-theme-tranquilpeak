@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[Tranquil-peak Hexo theme demo]]></title>
+  <title><![CDATA[Tranquilpeak Hexo theme demo]]></title>
   
-  <link href="/tranquil-peak-hexo-theme//atom.xml" rel="self"/>
-  <link href="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/"/>
-  <updated>2015-05-03T12:28:38.000Z</updated>
-  <id>http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/</id>
+  <link href="/tranquilpeak-hexo-theme//atom.xml" rel="self"/>
+  <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/"/>
+  <updated>2015-05-03T13:54:33.000Z</updated>
+  <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/</id>
   
   <author>
     <name><![CDATA[Louis Barranqueiro]]></name>
@@ -15,13 +15,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[Say hello to Tranquil-peak v1.0.0]]></title>
-    <link href="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2015/05/02/hello-world/"/>
-    <id>http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2015/05/02/hello-world/</id>
+    <title><![CDATA[Say hello to Tranquilpeak v1.0.0]]></title>
+    <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/02/hello-world/"/>
+    <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/02/hello-world/</id>
     <published>2015-05-02T05:54:05.000Z</published>
-    <updated>2015-05-03T12:28:38.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="Tranquil-peak_Hexo_theme">Tranquil-peak Hexo theme</h1><p>A gorgeous responsive theme for Hexo blog framework </p>
-<p><img src="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2015/05/02/hello-world/tranquil-peak.png" alt="Tranquil Peak"></p>
+    <updated>2015-05-03T13:54:33.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="Tranquilpeak_Hexo_theme">Tranquilpeak Hexo theme</h1><p>A gorgeous responsive theme for Hexo blog framework </p>
+<p><img src="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/02/hello-world/tranquilpeak.png" alt="Tranquil Peak"></p>
 <h2 id="Summary">Summary</h2><ul>
 <li><a href="#General">General</a></li>
 <li><a href="#Features">Features</a></li>
@@ -67,36 +67,36 @@
 </ul>
 <h2 id="Quick_start">Quick start</h2><p><strong>For users</strong> :  </p>
 <ol>
-<li>Download the latest version ready for production utilisation here : [tranquil-peak-hexo-theme-built-for-production-1.0.0]<br>(<a href="https://github.com/LouisBarranqueiro/tranquil-peak-hexo-theme/releases/download/v1.0.0/tranquil-peak-hexo-theme-built-for-production-1.0.0.zip" target="_blank" rel="external">https://github.com/LouisBarranqueiro/tranquil-peak-hexo-theme/releases/download/v1.0.0/tranquil-peak-hexo-theme-built-for-production-1.0.0.zip</a>) or choose an other version here : <a href="https://github.com/LouisBarranqueiro/tranquil-peak-hexo-theme/releases" target="_blank" rel="external">all releases</a>  </li>
-<li>Follow <a href="https://github.com/LouisBarranqueiro/tranquil-peak-hexo-theme/blob/master/docs/user.md" target="_blank" rel="external">user documentation</a> to install and configure the theme  </li>
+<li>Download the latest version ready for production utilisation here : [tranquilpeak-hexo-theme-built-for-production-1.0.0]<br>(<a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases/download/v1.0.0/tranquilpeak-hexo-theme-built-for-production-1.0.0.zip" target="_blank" rel="external">https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases/download/v1.0.0/tranquilpeak-hexo-theme-built-for-production-1.0.0.zip</a>) or choose an other version here : <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases" target="_blank" rel="external">all releases</a>  </li>
+<li>Follow <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/blob/master/docs/user.md" target="_blank" rel="external">user documentation</a> to install and configure the theme  </li>
 </ol>
-<p><strong>For developers</strong> : Run <code>git clone https://github.com/LouisBarranqueiro/tranquil-peak-hexo-theme.git</code></p>
-<h2 id="Demo">Demo</h2><p>Check Tranquil-peak theme in live  : <a href="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme" target="_blank" rel="external">tranquil-peak-hexo-theme demo</a></p>
-<h2 id="Showcase">Showcase</h2><p>I would like to create a showcase with all blogs which use Tranquil-peak theme. Please, <a href="https://github.com/LouisBarranqueiro/tranquil-peak-hexo-theme/issues/new?title=Add%20my%20blog%20into%20showcase&amp;body=Hey,%20the%20URL%20of%20my%20blog%20is:%20" target="_blank" rel="external">Add yours :)</a></p>
+<p><strong>For developers</strong> : Run <code>git clone https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme.git</code></p>
+<h2 id="Demo">Demo</h2><p>Check Tranquilpeak theme in live  : <a href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme" target="_blank" rel="external">tranquilpeak-hexo-theme demo</a></p>
+<h2 id="Showcase">Showcase</h2><p>I would like to create a showcase with all blogs which use Tranquilpeak theme. Please, <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/issues/new?title=Add%20my%20blog%20into%20showcase&amp;body=Hey,%20the%20URL%20of%20my%20blog%20is:%20" target="_blank" rel="external">Add yours :)</a></p>
 <h2 id="Documentation">Documentation</h2><p>If it’s your first time using Hexo, please check <a href="https://hexo.io/docs/" target="_blank" rel="external">Hexo official documentation</a></p>
-<h3 id="For_users">For users</h3><p>To install and configure the theme, consult the following documentation : <a href="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2015/05/02/Check-official-user-documentation/" target="_blank" rel="external">user documentation</a></p>
-<h3 id="For_developers">For developers</h3><p>To understand better the code and modify the theme, consult the following documentation : <a href="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2015/05/02/Check-official-developer-documentation/" target="_blank" rel="external">developer documentation</a></p>
+<h3 id="For_users">For users</h3><p>To install and configure the theme, consult the following documentation : <a href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/02/Check-official-user-documentation/" target="_blank" rel="external">user documentation</a></p>
+<h3 id="For_developers">For developers</h3><p>To understand better the code and modify the theme, consult the following documentation : <a href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/02/Check-official-developer-documentation/" target="_blank" rel="external">developer documentation</a></p>
 <h2 id="Contributing">Contributing</h2><p>All kinds of contributions (enhancements, new features, documentation &amp; code improvements, issues &amp; bugs reporting) are welcome.</p>
-<h2 id="License">License</h2><p>tranquil-peak-hexo-theme is released under the terms of the <a href="https://github.com/LouisBarranqueiro/tranquil-peak-hexo-theme/blob/master/LICENSE" target="_blank" rel="external">GNU General Public License v3.0</a></p>
+<h2 id="License">License</h2><p>tranquilpeak-hexo-theme is released under the terms of the <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/blob/master/LICENSE" target="_blank" rel="external">GNU General Public License v3.0</a></p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<h1 id="Tranquil-peak_Hexo_theme">Tranquil-peak Hexo theme</h1><p>A gorgeous responsive theme for Hexo blog framework </p>
-<p><img src="http]]>
+    <![CDATA[<h1 id="Tranquilpeak_Hexo_theme">Tranquilpeak Hexo theme</h1><p>A gorgeous responsive theme for Hexo blog framework </p>
+<p><img src="http:/]]>
     </summary>
     
-      <category term="tranquil-peak" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/categories/tranquil-peak/"/>
+      <category term="tranquilpeak" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/categories/tranquilpeak/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Check official user documentation]]></title>
-    <link href="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2015/05/02/Check-official-user-documentation/"/>
-    <id>http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2015/05/02/Check-official-user-documentation/</id>
+    <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/02/Check-official-user-documentation/"/>
+    <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/02/Check-official-user-documentation/</id>
     <published>2015-05-02T05:51:18.000Z</published>
-    <updated>2015-05-03T12:40:39.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="User_documentation">User documentation</h1><p>Tranquil-peak theme is comptabile with Hexo v3.0.0 or higher</p>
-<p>This documentation will help you to install tranquil-peak-hexo-theme and configure it to use all features which it provides.  </p>
-<p>If you want to report a bug or ask a question, <a href="https://github.com/LouisBarranqueiro/tranquil-peak-hexo-theme/issues/new" target="_blank" rel="external">create an issue</a>.</p>
+    <updated>2015-05-03T14:10:45.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="User_documentation">User documentation</h1><p>Tranquilpeak theme is comptabile with Hexo v3.0.0 or higher</p>
+<p>This documentation will help you to install tranquilpeak-hexo-theme and configure it to use all features which it provides.  </p>
+<p>If you want to report a bug or ask a question, <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/issues/new" target="_blank" rel="external">create an issue</a>.</p>
 <h2 id="Summary">Summary</h2><ul>
 <li><a href="#Requirements">Requirements</a></li>
 <li><a href="#Installation">Installation</a></li>
@@ -106,7 +106,7 @@
 <li><a href="#Enable_RSS_feed">Enable RSS feed</a></li>
 </ul>
 </li>
-<li><a href="#Tranquil-peak_configuration">Tranquil-peak configuration</a><ul>
+<li><a href="#Tranquilpeak_configuration">Tranquilpeak configuration</a><ul>
 <li><a href="#Sidebar">Sidebar</a></li>
 <li><a href="#Author">Author</a></li>
 <li><a href="#Customization">Customization</a></li>
@@ -127,12 +127,12 @@
 <li><strong>Hexo CLI</strong> : v0.1.4 or higher. Run <code>npm install hexo-cli -g</code></li>
 </ol>
 <h2 id="Installation">Installation</h2><ol>
-<li>Download the latest version built and ready for production here : [tranquil-peak-hexo-theme-built-for-production-1.0.0]<br>(<a href="https://github.com/LouisBarranqueiro/tranquil-peak-hexo-theme/releases/download/v1.0.0/tranquil-peak-hexo-theme-built-for-production-1.0.0.zip" target="_blank" rel="external">https://github.com/LouisBarranqueiro/tranquil-peak-hexo-theme/releases/download/v1.0.0/tranquil-peak-hexo-theme-built-for-production-1.0.0.zip</a>) or choose an other version here : <a href="https://github.com/LouisBarranqueiro/tranquil-peak-hexo-theme/releases" target="_blank" rel="external">all releases</a></li>
-<li>Rename the folder in <code>tranquil-peak</code> and place it in <code>themes</code> folder of your Hexo blog</li>
+<li>Download the latest version built and ready for production here : [tranquilpeak-hexo-theme-built-for-production-1.0.0]<br>(<a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases/download/v1.0.0/tranquilpeak-hexo-theme-built-for-production-1.0.0.zip" target="_blank" rel="external">https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases/download/v1.0.0/tranquilpeak-hexo-theme-built-for-production-1.0.0.zip</a>) or choose an other version here : <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases" target="_blank" rel="external">all releases</a></li>
+<li>Rename the folder in <code>tranquilpeak</code> and place it in <code>themes</code> folder of your Hexo blog</li>
 </ol>
 <h2 id="Hexo_configuration">Hexo configuration</h2><ol>
-<li>Modify the theme in <code>_config.yml</code> by changing <code>theme</code> variable  to <code>tranquil-peak</code></li>
-<li>Complete <code>theme/tranquil-peak/_config.yml</code> with your informations by following directives in comments</li>
+<li>Modify the theme in <code>_config.yml</code> by changing <code>theme</code> variable  to <code>tranquilpeak</code></li>
+<li>Complete <code>theme/tranquilpeak/_config.yml</code> with your informations by following directives in comments</li>
 </ol>
 <p>If it’s your first time using Hexo, please check <a href="https://hexo.io/docs/" target="_blank" rel="external">Hexo official documentation</a></p>
 <h3 id="Enable_post_assets_folder">Enable post assets folder</h3><p>If you want to take advantage of cover image, thumbnail image, and image gallery features, you hate to enable post assets folderby setting <code>post_asset_folder</code> to  <code>true</code>in <code>_config.yml</code>.</p>
@@ -142,8 +142,8 @@
 <li><strong>0</strong> : Disable pagination  </li>
 <li><strong>1</strong> : Enable pagination  </li>
 </ul>
-<p>Example :<br>A category page look like this with <code>category: 1</code> :<br><img src="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2015/05/02/Check-official-user-documentation/archives-1.png" alt="archives 1">  </p>
-<p>The same page with <code>category: 0</code>:<br><img src="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2015/05/02/Check-official-user-documentation/archives-0.png" alt="archives 0">  </p>
+<p>Example :<br>A category page look like this with <code>category: 1</code> :<br><img src="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/02/Check-official-user-documentation/archives-1.png" alt="archives 1">  </p>
+<p>The same page with <code>category: 0</code>:<br><img src="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/02/Check-official-user-documentation/archives-0.png" alt="archives 0">  </p>
 <h3 id="Enable_RSS_feed">Enable RSS feed</h3><ol>
 <li>Execute <code>npm install hexo-generator-feed --save</code> in your Hexo blog folder  </li>
 <li>Add this lines in <code>_config.yml</code> :  </li>
@@ -155,7 +155,7 @@
 <li><strong>limit</strong> : Maximum number of posts in the feed (Use <code>0</code> or <code>false</code> to show all posts)</li>
 </ul>
 <p>If you want more informations on this plugin : <a href="https://github.com/hexojs/hexo-generator-feed" target="_blank" rel="external">hexo-generator-feed</a></p>
-<h2 id="Tranquil-peak_configuration">Tranquil-peak configuration</h2><h3 id="Sidebar">Sidebar</h3><p>The sidebar is powerful and easily configurable.<br>DON’T modify variables name <code>sidebar</code>, <code>title</code>, <code>url</code> and <code>icon</code>.<br>Others variables name which refer to the name of a menu or a link can be edited. Example : <code>menu</code>, <code>home</code>, <code>categories</code>, etc…<br>You can add groups of links and links much as you want<br>You just have to respect the indentation : <code>groups of links</code> -&gt; <code>link</code> -&gt; <code>title</code>, <code>link</code>, <code>icon</code>  </p>
+<h2 id="Tranquilpeak_configuration">Tranquilpeak configuration</h2><h3 id="Sidebar">Sidebar</h3><p>The sidebar is powerful and easily configurable.<br>DON’T modify variables name <code>sidebar</code>, <code>title</code>, <code>url</code> and <code>icon</code>.<br>Others variables name which refer to the name of a menu or a link can be edited. Example : <code>menu</code>, <code>home</code>, <code>categories</code>, etc…<br>You can add groups of links and links much as you want<br>You just have to respect the indentation : <code>groups of links</code> -&gt; <code>link</code> -&gt; <code>title</code>, <code>link</code>, <code>icon</code>  </p>
 <figure class="highlight less"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br></pre></td><td class="code"><pre><span class="line"><span class="attribute">sidebar</span>:</span><br><span class="line">    <span class="attribute">menu</span>:</span><br><span class="line">        <span class="attribute">home</span>:</span><br><span class="line">            <span class="attribute">title</span>: Home</span><br><span class="line">            <span class="attribute">url</span>: /</span><br><span class="line">            <span class="attribute">icon</span>: home</span><br><span class="line">        <span class="attribute">categories</span>:</span><br><span class="line">            <span class="attribute">title</span>: Categories</span><br><span class="line">            <span class="attribute">url</span>: /all-categories</span><br><span class="line">            <span class="attribute">icon</span>: bookmark</span><br><span class="line">        <span class="attribute">tags</span>:</span><br><span class="line">            <span class="attribute">title</span>: Tags</span><br><span class="line">            <span class="attribute">url</span>: /all-tags</span><br><span class="line">            <span class="attribute">icon</span>: tags</span><br><span class="line">        <span class="attribute">archives</span>:</span><br><span class="line">            <span class="attribute">title</span>: Archives</span><br><span class="line">            <span class="attribute">url</span>: /all-archives</span><br><span class="line">            <span class="attribute">icon</span>: archive</span><br><span class="line">        <span class="attribute">about</span>:</span><br><span class="line">            <span class="attribute">title</span>: About me</span><br><span class="line">            <span class="attribute">url</span>: /#about</span><br><span class="line">            <span class="attribute">icon</span>: question</span><br><span class="line">    <span class="attribute">author_links</span>:</span><br><span class="line">        # <span class="attribute">github</span>:</span><br><span class="line">        #     <span class="attribute">title</span>: GitHub</span><br><span class="line">        #     <span class="attribute">url</span>: <span class="attribute">https</span>:<span class="comment">//github.com/</span></span><br><span class="line">        #     <span class="attribute">icon</span>: github</span><br><span class="line">        # <span class="attribute">stack_overflow</span>:</span><br><span class="line">        #     <span class="attribute">title</span>: Stack Overflow</span><br><span class="line">        #     <span class="attribute">url</span>: <span class="attribute">http</span>:<span class="comment">//stackoverflow.com/users/</span></span><br><span class="line">        #     <span class="attribute">icon</span>: stack-overflow</span><br><span class="line">        # <span class="attribute">twitter</span>:</span><br><span class="line">        #     <span class="attribute">title</span>: Twitter</span><br><span class="line">        #     <span class="attribute">url</span>: <span class="attribute">https</span>:<span class="comment">//twitter.com/</span></span><br><span class="line">        #     <span class="attribute">icon</span>: twitter</span><br><span class="line">        # <span class="attribute">facebook</span>:</span><br><span class="line">        #     <span class="attribute">title</span>: Facebook</span><br><span class="line">        #     <span class="attribute">url</span>: <span class="attribute">https</span>:<span class="comment">//www.facebook.com/</span></span><br><span class="line">        #     <span class="attribute">icon</span>: facebook</span><br><span class="line">        # <span class="attribute">google_plus</span>:</span><br><span class="line">        #     <span class="attribute">title</span>: Google +</span><br><span class="line">        #     <span class="attribute">url</span>: <span class="attribute">https</span>:<span class="comment">//plus.google.com/</span></span><br><span class="line">        #     <span class="attribute">icon</span>: google-plus</span><br><span class="line">        # <span class="attribute">linked_in</span>:</span><br><span class="line">        #     <span class="attribute">title</span>: Linked In</span><br><span class="line">        #     <span class="attribute">url</span>: <span class="attribute">https</span>:<span class="comment">//www.linkedin.com/profile/</span></span><br><span class="line">        #     <span class="attribute">icon</span>: linkedin</span><br><span class="line">        # <span class="attribute">mail</span>:</span><br><span class="line">        #     <span class="attribute">title</span>: Mail</span><br><span class="line">        #     <span class="attribute">url</span>: <span class="attribute">mailto</span>:<span class="comment">//</span></span><br><span class="line">        #     <span class="attribute">icon</span>: envelope-o</span><br><span class="line">    <span class="attribute">rss</span>:</span><br><span class="line">        <span class="attribute">rss</span>:</span><br><span class="line">            <span class="attribute">title</span>: RSS</span><br><span class="line">            <span class="attribute">url</span>: /atom.xml</span><br><span class="line">            <span class="attribute">icon</span>: rss</span><br></pre></td></tr></table></figure>
 <ul>
 <li><strong>title</strong> : Title of your link displayed</li>
@@ -173,18 +173,18 @@
 <h3 id="Customization">Customization</h3><figure class="highlight less"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"># <span class="tag">Customization</span></span><br><span class="line"><span class="tag">gravatar_image</span>: <span class="tag">1</span>                </span><br><span class="line"><span class="tag">thumbnail_image</span>: <span class="tag">1</span>               </span><br><span class="line"><span class="tag">read_more_message</span>: <span class="tag">Continue</span> <span class="tag">readiing</span></span><br><span class="line"><span class="tag">go_to_message</span>: <span class="tag">Go</span> <span class="tag">to</span> <span class="tag">the</span> <span class="tag">website</span> </span><br><span class="line"><span class="tag">cover</span>: <span class="tag">cover</span><span class="class">.png</span>                 </span><br><span class="line"><span class="tag">favicon</span>:                         </span><br><span class="line"><span class="tag">image_gallery</span>: <span class="tag">1</span></span><br></pre></td></tr></table></figure>
 <ul>
 <li><strong>gravatar_image</strong> : Enable gravatar image. Using <code>author.email</code> value. (disable: 0, enable: 1). Overwrite <code>author.picture</code> everywhere in the blog</li>
-<li><strong>thumbnail_image</strong> : Display thumbnail image of posts on index pages (disable: 0, enable: 1)</li>
+<li><strong>thumbnail_image</strong> : Display thumbnail image of each post on index pages (disable: 0, enable: 1)</li>
 <li><strong>read_more_message</strong> : Message displayed after the <code>&lt;!-- more --&gt;</code> tag or after 300 characters in post</li>
 <li><strong>go_to_message</strong> : Message displayed after the <code>&lt;!-- more --&gt;</code> balise or after 300 characters for post with link layout</li>
 <li><strong>cover</strong> : Your blog cover picture located in folder <code>source/assets/images/</code></li>
 <li><strong>favicon</strong> : Your favicon located in folder <code>source/assets/images/</code></li>
-<li><strong>image_gallery</strong> : Display an image gallery at the end of a post have <code>photos</code> variables</li>
+<li><strong>image_gallery</strong> : Display an image gallery at the end of a post which have <code>photos</code> variables</li>
 </ul>
 <h3 id="Miscellaneous">Miscellaneous</h3><figure class="highlight less"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"># <span class="tag">Miscellaneous</span></span><br><span class="line"><span class="tag">google_analytics</span>:</span><br></pre></td></tr></table></figure>
 <ul>
 <li><strong>google_analytics</strong> : Your Google analystics web property ID : UA-XXXXX-X</li>
 </ul>
-<h3 id="Enable_pages">Enable pages</h3><p>Tranquil-peak provides you 3 pages to display all posts title and date by tags, by categories, by date and an about page. To enable one of this pages,<br>read following step.</p>
+<h3 id="Enable_pages">Enable pages</h3><p>Tranquilpeak provides you 3 pages to display all posts title and date by tags, by categories, by date and an about page. To enable one of this pages,<br>read following step.</p>
 <h4 id="Enable_all-categories_page">Enable all-categories page</h4><p>To enable <code>all-categories</code> page :  </p>
 <ol>
 <li>Run <code>hexo new page &quot;all-categories&quot;</code>. A new folder named <code>all-categories</code> will be created in <code>source/</code>  </li>
@@ -206,7 +206,7 @@
 </ol>
 <figure class="highlight md"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">title: "all-archives"</span><br><span class="line"><span class="header">layout: "all-archives"</span><br><span class="line">---</span></span><br></pre></td></tr></table></figure>
 <p>New page will be reach at : <code>/all-archives</code>.<br>On this page, users will be able to search and filter posts.<br><strong>Search pattern</strong> : YYYY/MMM/DD</p>
-<h2 id="Writing_posts">Writing posts</h2><h3 id="Front-matter_settings">Front-matter settings</h3><p>Tranquil-peak introduces 2 new variables to configure precisly the style of your post : <code>thumbnailImage</code> and <code>coverImage</code>.  </p>
+<h2 id="Writing_posts">Writing posts</h2><h3 id="Front-matter_settings">Front-matter settings</h3><p>Tranquilpeak introduces 2 new variables to configure precisly the style of your post : <code>thumbnailImage</code> and <code>coverImage</code>.  </p>
 <p>Example :<br><figure class="highlight md"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">thumbnailImage: image-1.png</span><br><span class="line">coverImage: image-2.png</span><br><span class="line">photos:</span><br><span class="line"><span class="code">    - image-3.jpg</span></span><br><span class="line"><span class="code">    - image-4.png</span></span><br></pre></td></tr></table></figure></p>
 <ul>
 <li><strong>thumbnailImage</strong> : Image displayed in index view</li>
@@ -217,34 +217,34 @@
 <h2 id="Running">Running</h2><p>Run <code>hexo server</code> and start writing! :)</p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<h1 id="User_documentation">User documentation</h1><p>Tranquil-peak theme is comptabile with Hexo v3.0.0 or higher</p>
-<p>This documentation]]>
+    <![CDATA[<h1 id="User_documentation">User documentation</h1><p>Tranquilpeak theme is comptabile with Hexo v3.0.0 or higher</p>
+<p>This documentation ]]>
     </summary>
     
-      <category term="documentation" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/tags/documentation/"/>
+      <category term="documentation" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/tags/documentation/"/>
     
-      <category term="git" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/tags/git/"/>
+      <category term="git" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/tags/git/"/>
     
-      <category term="grunt" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/tags/grunt/"/>
+      <category term="grunt" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/tags/grunt/"/>
     
-      <category term="hexo theme" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/tags/hexo-theme/"/>
+      <category term="hexo theme" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/tags/hexo-theme/"/>
     
-      <category term="tranquil-peak" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/tags/tranquil-peak/"/>
+      <category term="tranquilpeak" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/tags/tranquilpeak/"/>
     
-      <category term="tranquil-peak" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/categories/tranquil-peak/"/>
+      <category term="tranquilpeak" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/categories/tranquilpeak/"/>
     
-      <category term="official documentation" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/categories/tranquil-peak/official-documentation/"/>
+      <category term="official documentation" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/categories/tranquilpeak/official-documentation/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Check official developer documentation]]></title>
-    <link href="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2015/05/02/Check-official-developer-documentation/"/>
-    <id>http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2015/05/02/Check-official-developer-documentation/</id>
+    <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/02/Check-official-developer-documentation/"/>
+    <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/02/Check-official-developer-documentation/</id>
     <published>2015-05-02T05:50:05.000Z</published>
-    <updated>2015-05-03T12:35:48.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="Developer_documentation">Developer documentation</h1><p>This documentation will help you to understand tranquil-peak-hexo-theme code.  </p>
-<p>If you want to report a bug or ask a question, <a href="https://github.com/LouisBarranqueiro/tranquil-peak-hexo-theme/issues/new" target="_blank" rel="external">create an issue</a>.</p>
+    <updated>2015-05-03T13:52:39.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="Developer_documentation">Developer documentation</h1><p>This documentation will help you to understand tranquilpeak-hexo-theme code.  </p>
+<p>If you want to report a bug or ask a question, <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/issues/new" target="_blank" rel="external">create an issue</a>.</p>
 <h2 id="Summary">Summary</h2><ul>
 <li><a href="#Requirements">Requirements</a></li>
 <li><a href="#Installation">Installation</a></li>
@@ -279,13 +279,13 @@
 <li><strong>Bower</strong> : v1.4.1 or higher. Run <code>npm install bower -g</code></li>
 </ol>
 <h2 id="Installation">Installation</h2><ol>
-<li>Run <code>git clone https://github.com/LouisBarranqueiro/tranquil-peak-hexo-theme.git</code></li>
-<li>Rename the folder in <code>tranquil-peak</code> and place it in <code>themes</code> folder of your Hexo blog</li>
-<li>Modify the theme in <code>_config.yml</code> by changing <code>theme</code> variable  to <code>tranquil-peak</code></li>
-<li>Complete <code>theme/tranquil-peak/_config.yml</code> with your informations by following directives in comments</li>
+<li>Run <code>git clone https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme.git</code></li>
+<li>Rename the folder in <code>tranquilpeak</code> and place it in <code>themes</code> folder of your Hexo blog</li>
+<li>Modify the theme in <code>_config.yml</code> by changing <code>theme</code> variable  to <code>tranquilpeak</code></li>
+<li>Complete <code>theme/tranquilpeak/_config.yml</code> with your informations by following directives in comments</li>
 </ol>
-<p>If you want to configure the theme, please follow the <a href="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2015/05/02/Check-official-user-documentation/" target="_blank" rel="external">user documentation</a>  </p>
-<h2 id="Code_structure">Code structure</h2><figure class="highlight stylus"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br><span class="line">84</span><br><span class="line">85</span><br><span class="line">86</span><br><span class="line">87</span><br><span class="line">88</span><br><span class="line">89</span><br><span class="line">90</span><br><span class="line">91</span><br><span class="line">92</span><br><span class="line">93</span><br><span class="line">94</span><br><span class="line">95</span><br><span class="line">96</span><br><span class="line">97</span><br><span class="line">98</span><br><span class="line">99</span><br><span class="line">100</span><br><span class="line">101</span><br><span class="line">102</span><br><span class="line">103</span><br><span class="line">104</span><br><span class="line">105</span><br><span class="line">106</span><br><span class="line">107</span><br><span class="line">108</span><br><span class="line">109</span><br><span class="line">110</span><br><span class="line">111</span><br><span class="line">112</span><br><span class="line">113</span><br><span class="line">114</span><br><span class="line">115</span><br><span class="line">116</span><br><span class="line">117</span><br><span class="line">118</span><br><span class="line">119</span><br><span class="line">120</span><br><span class="line">121</span><br><span class="line">122</span><br></pre></td><td class="code"><pre><span class="line">tranquil-peak-hexo-theme</span><br><span class="line">├── docs</span><br><span class="line">│   ├── developer<span class="class">.md</span></span><br><span class="line">│   └── user<span class="class">.md</span></span><br><span class="line">├── layout</span><br><span class="line">│   ├── _partial</span><br><span class="line">│   │   ├── post</span><br><span class="line">│   │   │   ├── actions<span class="class">.ejs</span></span><br><span class="line">│   │   │   ├── category<span class="class">.ejs</span></span><br><span class="line">│   │   │   ├── disqus<span class="class">.ejs</span></span><br><span class="line">│   │   │   ├── gallery<span class="class">.ejs</span></span><br><span class="line">│   │   │   ├── <span class="tag">header</span><span class="class">.ejs</span></span><br><span class="line">│   │   │   ├── meta<span class="class">.ejs</span></span><br><span class="line">│   │   │   └── tag<span class="class">.ejs</span></span><br><span class="line">│   │   ├── about<span class="class">.ejs</span></span><br><span class="line">│   │   ├── archive-post<span class="class">.ejs</span></span><br><span class="line">│   │   ├── archive<span class="class">.ejs</span></span><br><span class="line">│   │   ├── cover<span class="class">.ejs</span></span><br><span class="line">│   │   ├── <span class="tag">footer</span><span class="class">.ejs</span></span><br><span class="line">│   │   ├── google-analytics<span class="class">.ejs</span></span><br><span class="line">│   │   ├── head<span class="class">.ejs</span></span><br><span class="line">│   │   ├── <span class="tag">header</span><span class="class">.ejs</span></span><br><span class="line">│   │   ├── index<span class="class">.ejs</span></span><br><span class="line">│   │   ├── pagination<span class="class">.ejs</span></span><br><span class="line">│   │   ├── post<span class="class">.ejs</span></span><br><span class="line">│   │   ├── script<span class="class">.ejs</span></span><br><span class="line">│   │   └── sidebar<span class="class">.ejs</span></span><br><span class="line">│   ├── all-archives<span class="class">.ejs</span></span><br><span class="line">│   ├── all-categories<span class="class">.ejs</span></span><br><span class="line">│   ├── all-tags<span class="class">.ejs</span></span><br><span class="line">│   ├── archives<span class="class">.ejs</span></span><br><span class="line">│   ├── category<span class="class">.ejs</span></span><br><span class="line">│   ├── index<span class="class">.ejs</span></span><br><span class="line">│   ├── layout<span class="class">.ejs</span></span><br><span class="line">│   ├── page<span class="class">.ejs</span></span><br><span class="line">│   ├── post<span class="class">.ejs</span></span><br><span class="line">│   └── tag<span class="class">.ejs</span></span><br><span class="line">├── source</span><br><span class="line">│   ├── _css</span><br><span class="line">│   │   ├── base</span><br><span class="line">│   │   │   ├── _base<span class="class">.scss</span></span><br><span class="line">│   │   ├── components</span><br><span class="line">│   │   │   ├── archives<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _box<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _button<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _category<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _form<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _hide<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _highlight<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _icon<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _image-gallery<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _link<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _main-<span class="attribute">content</span><span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _markdown<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _pagination<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _post-actions<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _post<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _pullquote<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _tag<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _text<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _tooltip<span class="class">.scss</span></span><br><span class="line">│   │   │   └── _video<span class="class">.scss</span></span><br><span class="line">│   │   ├── layout</span><br><span class="line">│   │   │   ├── _about<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _blog<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _cover<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _footer<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _header<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _main<span class="class">.scss</span></span><br><span class="line">│   │   │   └── _sidebar<span class="class">.scss</span></span><br><span class="line">│   │   ├── utils</span><br><span class="line">│   │   │   ├── mixins</span><br><span class="line">│   │   │   │   ├── _button<span class="class">.scss</span></span><br><span class="line">│   │   │   │   ├── _category<span class="class">.scss</span></span><br><span class="line">│   │   │   │   ├── _form<span class="class">.scss</span></span><br><span class="line">│   │   │   │   ├── _opacity<span class="class">.scss</span></span><br><span class="line">│   │   │   │   ├── _prefix<span class="class">.scss</span></span><br><span class="line">│   │   │   │   └── _tag<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _font<span class="class">.scss</span></span><br><span class="line">│   │   │   └── _variables<span class="class">.scss</span></span><br><span class="line">│   │   └── tranquil-peak<span class="class">.scss</span></span><br><span class="line">│   ├── _images</span><br><span class="line">│   │   └── cover<span class="class">.png</span></span><br><span class="line">│   └── _js</span><br><span class="line">│   │   ├── about<span class="class">.js</span></span><br><span class="line">│   │   ├── archives-<span class="attribute">filter</span><span class="class">.js</span></span><br><span class="line">│   │   ├── categories-<span class="attribute">filter</span><span class="class">.js</span></span><br><span class="line">│   │   ├── fancybox<span class="class">.js</span><span class="class">.js</span></span><br><span class="line">│   │   ├── <span class="tag">header</span><span class="class">.js</span></span><br><span class="line">│   │   ├── image-gallery<span class="class">.js</span></span><br><span class="line">│   │   ├── post-<span class="attribute">bottom</span>-bar<span class="class">.js</span></span><br><span class="line">│   │   ├── sidebar<span class="class">.js</span></span><br><span class="line">│   │   ├── smartresize<span class="class">.js</span></span><br><span class="line">│   │   └── tags-<span class="attribute">filter</span><span class="class">.scss</span></span><br><span class="line">├── tasks</span><br><span class="line">│   ├── config</span><br><span class="line">│   │   ├── bower<span class="class">.js</span></span><br><span class="line">│   │   ├── clean<span class="class">.js</span></span><br><span class="line">│   │   ├── concat<span class="class">.js</span></span><br><span class="line">│   │   ├── cssmin<span class="class">.js</span></span><br><span class="line">│   │   ├── replace<span class="class">.js</span></span><br><span class="line">│   │   ├── sails-linker<span class="class">.js</span></span><br><span class="line">│   │   ├── sass<span class="class">.js</span></span><br><span class="line">│   │   ├── sync<span class="class">.js</span></span><br><span class="line">│   │   ├── uglify<span class="class">.js</span></span><br><span class="line">│   │   └── watch<span class="class">.js</span></span><br><span class="line">│   ├── register</span><br><span class="line">│   │   ├── build<span class="class">.js</span></span><br><span class="line">│   │   ├── buildProd<span class="class">.js</span></span><br><span class="line">│   │   ├── compileAssets<span class="class">.js</span></span><br><span class="line">│   │   ├── linkAssets<span class="class">.js</span></span><br><span class="line">│   │   ├── linkAssetsProd<span class="class">.js</span></span><br><span class="line">│   │   ├── syncAssets<span class="class">.js</span></span><br><span class="line">│   │   └── watch<span class="class">.js</span></span><br><span class="line">│   └── pipeline<span class="class">.js</span></span><br><span class="line">├── <span class="class">.bowerrc</span></span><br><span class="line">├── Gruntfile<span class="class">.js</span></span><br><span class="line">├── LICENSE</span><br><span class="line">├── README<span class="class">.md</span></span><br><span class="line">├── _config<span class="class">.yml</span></span><br><span class="line">├── bower<span class="class">.json</span></span><br><span class="line">└── package.json</span><br></pre></td></tr></table></figure>
+<p>If you want to configure the theme, please follow the <a href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/02/Check-official-user-documentation/" target="_blank" rel="external">user documentation</a>  </p>
+<h2 id="Code_structure">Code structure</h2><figure class="highlight stylus"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br><span class="line">84</span><br><span class="line">85</span><br><span class="line">86</span><br><span class="line">87</span><br><span class="line">88</span><br><span class="line">89</span><br><span class="line">90</span><br><span class="line">91</span><br><span class="line">92</span><br><span class="line">93</span><br><span class="line">94</span><br><span class="line">95</span><br><span class="line">96</span><br><span class="line">97</span><br><span class="line">98</span><br><span class="line">99</span><br><span class="line">100</span><br><span class="line">101</span><br><span class="line">102</span><br><span class="line">103</span><br><span class="line">104</span><br><span class="line">105</span><br><span class="line">106</span><br><span class="line">107</span><br><span class="line">108</span><br><span class="line">109</span><br><span class="line">110</span><br><span class="line">111</span><br><span class="line">112</span><br><span class="line">113</span><br><span class="line">114</span><br><span class="line">115</span><br><span class="line">116</span><br><span class="line">117</span><br><span class="line">118</span><br><span class="line">119</span><br><span class="line">120</span><br><span class="line">121</span><br><span class="line">122</span><br></pre></td><td class="code"><pre><span class="line">tranquilpeak-hexo-theme</span><br><span class="line">├── docs</span><br><span class="line">│   ├── developer<span class="class">.md</span></span><br><span class="line">│   └── user<span class="class">.md</span></span><br><span class="line">├── layout</span><br><span class="line">│   ├── _partial</span><br><span class="line">│   │   ├── post</span><br><span class="line">│   │   │   ├── actions<span class="class">.ejs</span></span><br><span class="line">│   │   │   ├── category<span class="class">.ejs</span></span><br><span class="line">│   │   │   ├── disqus<span class="class">.ejs</span></span><br><span class="line">│   │   │   ├── gallery<span class="class">.ejs</span></span><br><span class="line">│   │   │   ├── <span class="tag">header</span><span class="class">.ejs</span></span><br><span class="line">│   │   │   ├── meta<span class="class">.ejs</span></span><br><span class="line">│   │   │   └── tag<span class="class">.ejs</span></span><br><span class="line">│   │   ├── about<span class="class">.ejs</span></span><br><span class="line">│   │   ├── archive-post<span class="class">.ejs</span></span><br><span class="line">│   │   ├── archive<span class="class">.ejs</span></span><br><span class="line">│   │   ├── cover<span class="class">.ejs</span></span><br><span class="line">│   │   ├── <span class="tag">footer</span><span class="class">.ejs</span></span><br><span class="line">│   │   ├── google-analytics<span class="class">.ejs</span></span><br><span class="line">│   │   ├── head<span class="class">.ejs</span></span><br><span class="line">│   │   ├── <span class="tag">header</span><span class="class">.ejs</span></span><br><span class="line">│   │   ├── index<span class="class">.ejs</span></span><br><span class="line">│   │   ├── pagination<span class="class">.ejs</span></span><br><span class="line">│   │   ├── post<span class="class">.ejs</span></span><br><span class="line">│   │   ├── script<span class="class">.ejs</span></span><br><span class="line">│   │   └── sidebar<span class="class">.ejs</span></span><br><span class="line">│   ├── all-archives<span class="class">.ejs</span></span><br><span class="line">│   ├── all-categories<span class="class">.ejs</span></span><br><span class="line">│   ├── all-tags<span class="class">.ejs</span></span><br><span class="line">│   ├── archives<span class="class">.ejs</span></span><br><span class="line">│   ├── category<span class="class">.ejs</span></span><br><span class="line">│   ├── index<span class="class">.ejs</span></span><br><span class="line">│   ├── layout<span class="class">.ejs</span></span><br><span class="line">│   ├── page<span class="class">.ejs</span></span><br><span class="line">│   ├── post<span class="class">.ejs</span></span><br><span class="line">│   └── tag<span class="class">.ejs</span></span><br><span class="line">├── source</span><br><span class="line">│   ├── _css</span><br><span class="line">│   │   ├── base</span><br><span class="line">│   │   │   ├── _base<span class="class">.scss</span></span><br><span class="line">│   │   ├── components</span><br><span class="line">│   │   │   ├── archives<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _box<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _button<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _category<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _form<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _hide<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _highlight<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _icon<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _image-gallery<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _link<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _main-<span class="attribute">content</span><span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _markdown<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _pagination<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _post-actions<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _post<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _pullquote<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _tag<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _text<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _tooltip<span class="class">.scss</span></span><br><span class="line">│   │   │   └── _video<span class="class">.scss</span></span><br><span class="line">│   │   ├── layout</span><br><span class="line">│   │   │   ├── _about<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _blog<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _cover<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _footer<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _header<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _main<span class="class">.scss</span></span><br><span class="line">│   │   │   └── _sidebar<span class="class">.scss</span></span><br><span class="line">│   │   ├── utils</span><br><span class="line">│   │   │   ├── mixins</span><br><span class="line">│   │   │   │   ├── _button<span class="class">.scss</span></span><br><span class="line">│   │   │   │   ├── _category<span class="class">.scss</span></span><br><span class="line">│   │   │   │   ├── _form<span class="class">.scss</span></span><br><span class="line">│   │   │   │   ├── _opacity<span class="class">.scss</span></span><br><span class="line">│   │   │   │   ├── _prefix<span class="class">.scss</span></span><br><span class="line">│   │   │   │   └── _tag<span class="class">.scss</span></span><br><span class="line">│   │   │   ├── _font<span class="class">.scss</span></span><br><span class="line">│   │   │   └── _variables<span class="class">.scss</span></span><br><span class="line">│   │   └── tranquilpeak<span class="class">.scss</span></span><br><span class="line">│   ├── _images</span><br><span class="line">│   │   └── cover<span class="class">.png</span></span><br><span class="line">│   └── _js</span><br><span class="line">│   │   ├── about<span class="class">.js</span></span><br><span class="line">│   │   ├── archives-<span class="attribute">filter</span><span class="class">.js</span></span><br><span class="line">│   │   ├── categories-<span class="attribute">filter</span><span class="class">.js</span></span><br><span class="line">│   │   ├── fancybox<span class="class">.js</span><span class="class">.js</span></span><br><span class="line">│   │   ├── <span class="tag">header</span><span class="class">.js</span></span><br><span class="line">│   │   ├── image-gallery<span class="class">.js</span></span><br><span class="line">│   │   ├── post-<span class="attribute">bottom</span>-bar<span class="class">.js</span></span><br><span class="line">│   │   ├── sidebar<span class="class">.js</span></span><br><span class="line">│   │   ├── smartresize<span class="class">.js</span></span><br><span class="line">│   │   └── tags-<span class="attribute">filter</span><span class="class">.scss</span></span><br><span class="line">├── tasks</span><br><span class="line">│   ├── config</span><br><span class="line">│   │   ├── bower<span class="class">.js</span></span><br><span class="line">│   │   ├── clean<span class="class">.js</span></span><br><span class="line">│   │   ├── concat<span class="class">.js</span></span><br><span class="line">│   │   ├── cssmin<span class="class">.js</span></span><br><span class="line">│   │   ├── replace<span class="class">.js</span></span><br><span class="line">│   │   ├── sails-linker<span class="class">.js</span></span><br><span class="line">│   │   ├── sass<span class="class">.js</span></span><br><span class="line">│   │   ├── sync<span class="class">.js</span></span><br><span class="line">│   │   ├── uglify<span class="class">.js</span></span><br><span class="line">│   │   └── watch<span class="class">.js</span></span><br><span class="line">│   ├── register</span><br><span class="line">│   │   ├── build<span class="class">.js</span></span><br><span class="line">│   │   ├── buildProd<span class="class">.js</span></span><br><span class="line">│   │   ├── compileAssets<span class="class">.js</span></span><br><span class="line">│   │   ├── linkAssets<span class="class">.js</span></span><br><span class="line">│   │   ├── linkAssetsProd<span class="class">.js</span></span><br><span class="line">│   │   ├── syncAssets<span class="class">.js</span></span><br><span class="line">│   │   └── watch<span class="class">.js</span></span><br><span class="line">│   └── pipeline<span class="class">.js</span></span><br><span class="line">├── <span class="class">.bowerrc</span></span><br><span class="line">├── Gruntfile<span class="class">.js</span></span><br><span class="line">├── LICENSE</span><br><span class="line">├── README<span class="class">.md</span></span><br><span class="line">├── _config<span class="class">.yml</span></span><br><span class="line">├── bower<span class="class">.json</span></span><br><span class="line">└── package.json</span><br></pre></td></tr></table></figure>
 <ul>
 <li><strong>docs</strong> : Contains user and developer documentation</li>
 <li><strong>layout</strong> : Contains all views</li>
@@ -298,7 +298,7 @@
 <li><strong>layout/partial</strong> : Contains all partial views included in main views</li>
 <li><strong>layout/partial/post</strong> : Contains all partial views to build post</li>
 </ul>
-<h3 id="Assets">Assets</h3><h4 id="Stylesheets">Stylesheets</h4><figure class="highlight stylus"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br></pre></td><td class="code"><pre><span class="line">├── _css</span><br><span class="line">    ├── base</span><br><span class="line">    │   ├── _base<span class="class">.scss</span></span><br><span class="line">    ├── components</span><br><span class="line">    │   ├── archives<span class="class">.scss</span></span><br><span class="line">    │   ├── _box<span class="class">.scss</span></span><br><span class="line">    │   ├── _button<span class="class">.scss</span></span><br><span class="line">    │   ├── _category<span class="class">.scss</span></span><br><span class="line">    │   ├── _form<span class="class">.scss</span></span><br><span class="line">    │   ├── _hide<span class="class">.scss</span></span><br><span class="line">    │   ├── _highlight<span class="class">.scss</span></span><br><span class="line">    │   ├── _icon<span class="class">.scss</span></span><br><span class="line">    │   ├── _image-gallery<span class="class">.scss</span></span><br><span class="line">    │   ├── _link<span class="class">.scss</span></span><br><span class="line">    │   ├── _main-<span class="attribute">content</span><span class="class">.scss</span></span><br><span class="line">    │   ├── _markdown<span class="class">.scss</span></span><br><span class="line">    │   ├── _pagination<span class="class">.scss</span></span><br><span class="line">    │   ├── _post-actions<span class="class">.scss</span></span><br><span class="line">    │   ├── _post<span class="class">.scss</span></span><br><span class="line">    │   ├── _pullquote<span class="class">.scss</span></span><br><span class="line">    │   ├── _tag<span class="class">.scss</span></span><br><span class="line">    │   ├── _text<span class="class">.scss</span></span><br><span class="line">    │   ├── _tooltip<span class="class">.scss</span></span><br><span class="line">    │   └── _video<span class="class">.scss</span></span><br><span class="line">    ├── layout</span><br><span class="line">    │   ├── _about<span class="class">.scss</span></span><br><span class="line">    │   ├── _blog<span class="class">.scss</span></span><br><span class="line">    │   ├── _cover<span class="class">.scss</span></span><br><span class="line">    │   ├── _footer<span class="class">.scss</span></span><br><span class="line">    │   ├── _header<span class="class">.scss</span></span><br><span class="line">    │   ├── _main<span class="class">.scss</span></span><br><span class="line">    │   └── _sidebar<span class="class">.scss</span></span><br><span class="line">    ├── utils</span><br><span class="line">    │   ├── mixins</span><br><span class="line">    │   │   ├── _button<span class="class">.scss</span></span><br><span class="line">    │   │   ├── _category<span class="class">.scss</span></span><br><span class="line">    │   │   ├── _form<span class="class">.scss</span></span><br><span class="line">    │   │   ├── _opacity<span class="class">.scss</span></span><br><span class="line">    │   │   ├── _prefix<span class="class">.scss</span></span><br><span class="line">    │   │   └── _tag<span class="class">.scss</span></span><br><span class="line">    │   ├── _font<span class="class">.scss</span></span><br><span class="line">    │   └── _variables<span class="class">.scss</span></span><br><span class="line">    └── tranquil-peak.scss</span><br></pre></td></tr></table></figure>  
+<h3 id="Assets">Assets</h3><h4 id="Stylesheets">Stylesheets</h4><figure class="highlight stylus"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br></pre></td><td class="code"><pre><span class="line">├── _css</span><br><span class="line">    ├── base</span><br><span class="line">    │   ├── _base<span class="class">.scss</span></span><br><span class="line">    ├── components</span><br><span class="line">    │   ├── archives<span class="class">.scss</span></span><br><span class="line">    │   ├── _box<span class="class">.scss</span></span><br><span class="line">    │   ├── _button<span class="class">.scss</span></span><br><span class="line">    │   ├── _category<span class="class">.scss</span></span><br><span class="line">    │   ├── _form<span class="class">.scss</span></span><br><span class="line">    │   ├── _hide<span class="class">.scss</span></span><br><span class="line">    │   ├── _highlight<span class="class">.scss</span></span><br><span class="line">    │   ├── _icon<span class="class">.scss</span></span><br><span class="line">    │   ├── _image-gallery<span class="class">.scss</span></span><br><span class="line">    │   ├── _link<span class="class">.scss</span></span><br><span class="line">    │   ├── _main-<span class="attribute">content</span><span class="class">.scss</span></span><br><span class="line">    │   ├── _markdown<span class="class">.scss</span></span><br><span class="line">    │   ├── _pagination<span class="class">.scss</span></span><br><span class="line">    │   ├── _post-actions<span class="class">.scss</span></span><br><span class="line">    │   ├── _post<span class="class">.scss</span></span><br><span class="line">    │   ├── _pullquote<span class="class">.scss</span></span><br><span class="line">    │   ├── _tag<span class="class">.scss</span></span><br><span class="line">    │   ├── _text<span class="class">.scss</span></span><br><span class="line">    │   ├── _tooltip<span class="class">.scss</span></span><br><span class="line">    │   └── _video<span class="class">.scss</span></span><br><span class="line">    ├── layout</span><br><span class="line">    │   ├── _about<span class="class">.scss</span></span><br><span class="line">    │   ├── _blog<span class="class">.scss</span></span><br><span class="line">    │   ├── _cover<span class="class">.scss</span></span><br><span class="line">    │   ├── _footer<span class="class">.scss</span></span><br><span class="line">    │   ├── _header<span class="class">.scss</span></span><br><span class="line">    │   ├── _main<span class="class">.scss</span></span><br><span class="line">    │   └── _sidebar<span class="class">.scss</span></span><br><span class="line">    ├── utils</span><br><span class="line">    │   ├── mixins</span><br><span class="line">    │   │   ├── _button<span class="class">.scss</span></span><br><span class="line">    │   │   ├── _category<span class="class">.scss</span></span><br><span class="line">    │   │   ├── _form<span class="class">.scss</span></span><br><span class="line">    │   │   ├── _opacity<span class="class">.scss</span></span><br><span class="line">    │   │   ├── _prefix<span class="class">.scss</span></span><br><span class="line">    │   │   └── _tag<span class="class">.scss</span></span><br><span class="line">    │   ├── _font<span class="class">.scss</span></span><br><span class="line">    │   └── _variables<span class="class">.scss</span></span><br><span class="line">    └── tranquilpeak.scss</span><br></pre></td></tr></table></figure>  
 <p>SCSS structure follow 7-1 pattern of <a href="http://sass-guidelin.es/#the-7-1-pattern" target="_blank" rel="external">sass guidelines</a><br>If you want more informations and to understand better this code, consult <a href="http://sass-guidelin.es/" target="_blank" rel="external">sass guidelines</a>  </p>
 <h4 id="Images">Images</h4><figure class="highlight vhdl"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">├── _images</span><br><span class="line">    └── <span class="keyword">cover</span>.png</span><br></pre></td></tr></table></figure>
 <ul>
@@ -331,17 +331,17 @@
 <li><strong>register</strong> : Alias tasks which call mutliple default tasks</li>
 <li><strong>pipeline.js</strong> : Files which contains a list of javascript and stylesheets files linked to the blog</li>
 </ul>
-<h4 id="Pipeline">Pipeline</h4><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// Js files to inject in `layout/_partial/script.ejs`</span></span><br><span class="line"><span class="keyword">var</span> tranquilPeakJsFilesToInject = [</span><br><span class="line">    <span class="string">'jquery.js'</span>,</span><br><span class="line">    <span class="string">'jquery.fancybox.js'</span>,</span><br><span class="line">    <span class="string">'jquery.fancybox-thumbs.js'</span>,</span><br><span class="line">    <span class="string">'tranquil-peak.js'</span></span><br><span class="line">];</span><br><span class="line"><span class="comment">// Css files to inject in `layout/_partial/head.ejs`</span></span><br><span class="line"><span class="keyword">var</span> tranquilPeakCssFilesToInject = [</span><br><span class="line">    <span class="string">'font-awesome.css'</span>,</span><br><span class="line">    <span class="string">'jquery.fancybox.css'</span>,</span><br><span class="line">    <span class="string">'jquery.fancybox-thumbs.css'</span>,</span><br><span class="line">    <span class="string">'tranquil-peak.css'</span></span><br><span class="line">];</span><br></pre></td></tr></table></figure>
+<h4 id="Pipeline">Pipeline</h4><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// Js files to inject in `layout/_partial/script.ejs`</span></span><br><span class="line"><span class="keyword">var</span> tranquilpeakJsFilesToInject = [</span><br><span class="line">    <span class="string">'jquery.js'</span>,</span><br><span class="line">    <span class="string">'jquery.fancybox.js'</span>,</span><br><span class="line">    <span class="string">'jquery.fancybox-thumbs.js'</span>,</span><br><span class="line">    <span class="string">'tranquilpeak.js'</span></span><br><span class="line">];</span><br><span class="line"><span class="comment">// Css files to inject in `layout/_partial/head.ejs`</span></span><br><span class="line"><span class="keyword">var</span> tranquilpeakCssFilesToInject = [</span><br><span class="line">    <span class="string">'font-awesome.css'</span>,</span><br><span class="line">    <span class="string">'jquery.fancybox.css'</span>,</span><br><span class="line">    <span class="string">'jquery.fancybox-thumbs.css'</span>,</span><br><span class="line">    <span class="string">'tranquilpeak.css'</span></span><br><span class="line">];</span><br></pre></td></tr></table></figure>
 <ul>
-<li><strong>tranquilPeakJsFilesToInject</strong> :  Files injected in <code>layout/_partial/script.ejs</code> (developement environment)</li>
-<li><strong>tranquilPeakCssFilesToInject</strong> :  Files injected in<code>layout/_partial/head.ejs</code> (developement environment)</li>
+<li><strong>tranquilpeakJsFilesToInject</strong> :  Files injected in <code>layout/_partial/script.ejs</code> (developement environment)</li>
+<li><strong>tranquilpeakCssFilesToInject</strong> :  Files injected in<code>layout/_partial/head.ejs</code> (developement environment)</li>
 </ul>
 <p>On production environment, these javascript and stylesheets files are concatenate and minify in 1 javascript file and 1 stylesheet file and linked to their respective views</p>
 <h4 id="Config_tasks">Config tasks</h4><ul>
 <li><strong>bower</strong> : Copy all needed files by types from bower dependencies  </li>
 <li><strong>clean</strong> : Delete <code>source/assets</code> folder  </li>
 <li><strong>concat</strong> : <ul>
-<li>devJs : Concat all javascript files located in <code>source/_js/</code> into 1 file : <code>source/assets/js/tranquil-peak.js</code>  </li>
+<li>devJs : Concat all javascript files located in <code>source/_js/</code> into 1 file : <code>source/assets/js/tranquilpeak.js</code>  </li>
 <li>prodCss : Concat all stylesheets files located in <code>source/assets/css/</code> into 1 file : <code>source/assets/css/style.css</code>  </li>
 <li>prodJs : Concat all javascript listed in <code>tasks/pipeline.js</code> in 1 file : <code>source/assets/js/script.js</code>  </li>
 </ul>
@@ -359,7 +359,7 @@
 <li>prodCss : Link <code>source/assets/js/style.min.css</code> file in <code>layout/_partial/head.ejs</code>  </li>
 </ul>
 </li>
-<li><strong>sass</strong> : Compile <code>source/_css/tranquil-peak.scss</code> file in <code>source/assets/css/tranquil-peak.css</code>   </li>
+<li><strong>sass</strong> : Compile <code>source/_css/tranquilpeak.scss</code> file in <code>source/assets/css/tranquilpeak.css</code>   </li>
 <li><strong>sync</strong> : Synchronize images from <code>source/_images</code> to <code>source/assets/images</code>  </li>
 <li><strong>uglify</strong> : Minify <code>source/assets/js/script.js</code> file in <code>source/assets/js/script.min.js</code>  </li>
 <li><strong>watch</strong> : Watch assets from <code>source/_*/**/*</code> folder to detect changes and launch <code>SyncAssets</code> task  </li>
@@ -383,29 +383,29 @@
 <h2 id="Running">Running</h2><p>Run <code>hexo server</code> and start coding! :)</p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<h1 id="Developer_documentation">Developer documentation</h1><p>This documentation will help you to understand tranquil-peak-hexo-theme code]]>
+    <![CDATA[<h1 id="Developer_documentation">Developer documentation</h1><p>This documentation will help you to understand tranquilpeak-hexo-theme code.]]>
     </summary>
     
-      <category term="documentation" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/tags/documentation/"/>
+      <category term="documentation" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/tags/documentation/"/>
     
-      <category term="git" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/tags/git/"/>
+      <category term="git" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/tags/git/"/>
     
-      <category term="grunt" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/tags/grunt/"/>
+      <category term="grunt" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/tags/grunt/"/>
     
-      <category term="hexo theme" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/tags/hexo-theme/"/>
+      <category term="hexo theme" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/tags/hexo-theme/"/>
     
-      <category term="tranquil-peak" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/tags/tranquil-peak/"/>
+      <category term="tranquilpeak" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/tags/tranquilpeak/"/>
     
-      <category term="tranquil-peak" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/categories/tranquil-peak/"/>
+      <category term="tranquilpeak" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/categories/tranquilpeak/"/>
     
-      <category term="official documentation" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/categories/tranquil-peak/official-documentation/"/>
+      <category term="official documentation" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/categories/tranquilpeak/official-documentation/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Highlight code tag plugin]]></title>
-    <link href="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2015/04/02/highlight-code-tag-plugins/"/>
-    <id>http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2015/04/02/highlight-code-tag-plugins/</id>
+    <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/04/02/highlight-code-tag-plugins/"/>
+    <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/04/02/highlight-code-tag-plugins/</id>
     <published>2015-04-02T04:53:05.000Z</published>
     <updated>2015-05-02T23:11:56.000Z</updated>
     <content type="html"><![CDATA[<p>APACHECONF<br><figure class="highlight apacheconf"><figcaption><span>apache.conf</span><a href="http://underscorejs.org/#compact" target="_blank" rel="external">apache.conf</a></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># rewrite`s rules for wordpress pretty url</span></span><br><span class="line"><span class="keyword"><span class="common">LoadModule</span></span> rewrite_module  modules/mod_rewrite.so</span><br><span class="line"><span class="keyword"><span class="common">RewriteCond</span></span> <span class="cbracket">%&#123;REQUEST_FILENAME&#125;</span> !-f</span><br><span class="line"><span class="keyword"><span class="common">RewriteCond</span></span> <span class="cbracket">%&#123;REQUEST_FILENAME&#125;</span> !-d</span><br><span class="line"><span class="keyword"><span class="common">RewriteRule</span></span> . index.php<span class="sqbracket"> [NC,L]</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">ExpiresActive</span> <span class="literal">On</span></span><br><span class="line"><span class="keyword">ExpiresByType</span> application/x-javascript  <span class="string">"access plus 1 days"</span></span><br><span class="line"></span><br><span class="line"><span class="keyword"><span class="common">Order</span></span> Deny,Allow</span><br><span class="line"><span class="keyword"><span class="common">Allow</span></span> from <span class="literal">All</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;Location /maps/&gt;</span></span><br><span class="line">  <span class="keyword">RewriteMap</span> map txt:map.txt</span><br><span class="line">  <span class="keyword">RewriteMap</span> lower int:tolower</span><br><span class="line">  <span class="keyword"><span class="common">RewriteCond</span></span> <span class="cbracket">%&#123;REQUEST_URI&#125;</span> ^/([^/.]+)\.html$<span class="sqbracket"> [NC]</span></span><br><span class="line">  <span class="keyword"><span class="common">RewriteCond</span></span> <span class="cbracket">$&#123;map:<span class="cbracket">$&#123;lower:<span class="number">%1</span>&#125;</span>|NOT_FOUND&#125;</span> !NOT_FOUND</span><br><span class="line">  <span class="keyword"><span class="common">RewriteRule</span></span> .? /index.php?q=<span class="cbracket">$&#123;map:<span class="cbracket">$&#123;lower:<span class="number">%1</span>&#125;</span>&#125;</span><span class="sqbracket"> [NC,L]</span></span><br><span class="line"><span class="tag">&lt;/Location&gt;</span></span><br></pre></td></tr></table></figure></p>
@@ -457,14 +457,14 @@
     <![CDATA[<p>APACHECONF<br><figure class="highlight apacheconf"><figcaption><span>apache.conf</span><a href="http://underscorejs.org/#compact" target=]]>
     </summary>
     
-      <category term="highlight code" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/tags/highlight-code/"/>
+      <category term="highlight code" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/tags/highlight-code/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Cover image post]]></title>
-    <link href="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2015/03/25/cover-image/"/>
-    <id>http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2015/03/25/cover-image/</id>
+    <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/03/25/cover-image/"/>
+    <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/03/25/cover-image/</id>
     <published>2015-03-24T23:23:23.000Z</published>
     <updated>2015-05-02T23:11:27.000Z</updated>
     <content type="html"><![CDATA[<p>The following contents should be invisible in home/archive page.<br><a id="more"></a><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget urna vitae velit eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Aliquam eleifend dolor vitae libero pharetra adipiscing. Etiam adipiscing dolor a quam tempor, eu convallis nulla varius. Aliquam sollicitudin risus a porta aliquam. Ut nec velit dolor. Proin eget leo lobortis, aliquam est sed, mollis mauris. Fusce vitae leo pretium massa accumsan condimentum. Fusce malesuada gravida lectus vel vulputate. Donec bibendum porta nibh ut aliquam.</p>
@@ -477,26 +477,26 @@
     
     </summary>
     
-      <category term="git" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/tags/git/"/>
+      <category term="git" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/tags/git/"/>
     
-      <category term="grunt" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/tags/grunt/"/>
+      <category term="grunt" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/tags/grunt/"/>
     
-      <category term="slack" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/tags/slack/"/>
+      <category term="slack" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/tags/slack/"/>
     
-      <category term="sourceforge" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/tags/sourceforge/"/>
+      <category term="sourceforge" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/tags/sourceforge/"/>
     
-      <category term="workflow" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/tags/workflow/"/>
+      <category term="workflow" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/tags/workflow/"/>
     
-      <category term="programming" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/categories/programming/"/>
+      <category term="programming" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/categories/programming/"/>
     
-      <category term="unit tests" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/categories/programming/unit-tests/"/>
+      <category term="unit tests" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/categories/programming/unit-tests/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Gallery Post]]></title>
-    <link href="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2015/03/03/gallery-post/"/>
-    <id>http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2015/03/03/gallery-post/</id>
+    <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/03/03/gallery-post/"/>
+    <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/03/03/gallery-post/</id>
     <published>2015-03-02T23:16:18.000Z</published>
     <updated>2015-05-02T23:11:43.000Z</updated>
     <content type="html"><![CDATA[<p>This post contains 4 photos:</p>
@@ -518,16 +518,16 @@
 <li>Small ]]>
     </summary>
     
-      <category term="image gallery" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/tags/image-gallery/"/>
+      <category term="image gallery" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/tags/image-gallery/"/>
     
-      <category term="tranquil-peak" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/categories/tranquil-peak/"/>
+      <category term="tranquil-peak" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/categories/tranquil-peak/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Elements]]></title>
-    <link href="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2014/07/16/elements/"/>
-    <id>http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2014/07/16/elements/</id>
+    <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2014/07/16/elements/"/>
+    <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2014/07/16/elements/</id>
     <published>2014-07-16T21:29:08.000Z</published>
     <updated>2015-05-02T23:16:24.000Z</updated>
     <content type="html"><![CDATA[<p>The purpose of this post is to help you make sure all of HTML elements can display properly. If you use CSS reset, don’t forget to redefine the style by yourself.</p>
@@ -583,18 +583,18 @@
     <![CDATA[<p>The purpose of this post is to help you make sure all of HTML elements can display properly. If you use CSS reset, don’t forget to redefi]]>
     </summary>
     
-      <category term="grunt" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/tags/grunt/"/>
+      <category term="grunt" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/tags/grunt/"/>
     
-      <category term="slack" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/tags/slack/"/>
+      <category term="slack" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/tags/slack/"/>
     
-      <category term="programming" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/categories/programming/"/>
+      <category term="programming" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/categories/programming/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[www.google.com]]></title>
-    <link href="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2014/04/18/link-post-without-title/"/>
-    <id>http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2014/04/18/link-post-without-title/</id>
+    <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2014/04/18/link-post-without-title/"/>
+    <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2014/04/18/link-post-without-title/</id>
     <published>2014-04-18T21:44:13.000Z</published>
     <updated>2015-05-02T23:10:17.000Z</updated>
     <content type="html"><![CDATA[<p>This is a link post without a title. The title should be the link with or without protocol. Clicking on the link should open <a href="http://www.google.com/" target="_blank" rel="external">Google</a> in a new tab or window.</p>
@@ -607,8 +607,8 @@
   
   <entry>
     <title><![CDATA[Videos]]></title>
-    <link href="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2013/12/29/videos/"/>
-    <id>http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2013/12/29/videos/</id>
+    <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2013/12/29/videos/"/>
+    <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2013/12/29/videos/</id>
     <published>2013-12-28T23:19:15.000Z</published>
     <updated>2015-05-02T23:09:41.000Z</updated>
     <content type="html"><![CDATA[<p>This is a video test post.</p>
@@ -622,14 +622,14 @@
 <div class="video-container"><iframe src="//www.youtube.com/embed/TIbZDRXM]]>
     </summary>
     
-      <category term="videos" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/tags/videos/"/>
+      <category term="videos" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/tags/videos/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Tag Plugins]]></title>
-    <link href="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2013/12/25/tag-plugins/"/>
-    <id>http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2013/12/25/tag-plugins/</id>
+    <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2013/12/25/tag-plugins/"/>
+    <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2013/12/25/tag-plugins/</id>
     <published>2013-12-24T23:14:39.000Z</published>
     <updated>2015-05-02T06:05:45.000Z</updated>
     <content type="html"><![CDATA[<p>This post is used for testing tag plugins. See <a href="http://zespia.tw/hexo/docs/tag-plugins.html" target="_blank" rel="external">docs</a> for more info.</p>
@@ -659,14 +659,14 @@
     <![CDATA[<p>This post is used for testing tag plugins. See <a href="http://zespia.tw/hexo/docs/tag-plugins.html" target="_blank" rel="external">docs<]]>
     </summary>
     
-      <category term="tag plugins" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/tags/tag-plugins/"/>
+      <category term="tag plugins" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/tags/tag-plugins/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Categories]]></title>
-    <link href="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2013/12/24/categories/"/>
-    <id>http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2013/12/24/categories/</id>
+    <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2013/12/24/categories/"/>
+    <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2013/12/24/categories/</id>
     <published>2013-12-24T22:30:09.000Z</published>
     <updated>2015-05-02T22:30:32.000Z</updated>
     <content type="html"><![CDATA[<p>This post contains 3 categories. Make sure your theme can display all of the categories.</p>
@@ -676,18 +676,18 @@
 ]]>
     </summary>
     
-      <category term="workflow" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/categories/workflow/"/>
+      <category term="workflow" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/categories/workflow/"/>
     
-      <category term="git" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/categories/workflow/git/"/>
+      <category term="git" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/categories/workflow/git/"/>
     
-      <category term="gitHub" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/categories/workflow/git/gitHub/"/>
+      <category term="gitHub" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/categories/workflow/git/gitHub/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Sir Gawain and the Study of Plot]]></title>
-    <link href="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2013/11/11/tags/"/>
-    <id>http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2013/11/11/tags/</id>
+    <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2013/11/11/tags/"/>
+    <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2013/11/11/tags/</id>
     <published>2013-11-11T22:29:53.000Z</published>
     <updated>2015-05-02T23:09:50.000Z</updated>
     <content type="html"><![CDATA[<p>This post contains 3 tags. Make sure your theme can display all of the tags.</p>
@@ -701,8 +701,8 @@
   
   <entry>
     <title><![CDATA[中文測試]]></title>
-    <link href="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2013/10/02/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/"/>
-    <id>http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2013/10/02/中文測試/</id>
+    <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2013/10/02/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/"/>
+    <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2013/10/02/中文測試/</id>
     <published>2013-10-02T21:31:30.000Z</published>
     <updated>2015-05-02T23:09:30.000Z</updated>
     <content type="html"><![CDATA[<p>This is a Chinese test post.</p>
@@ -721,14 +721,14 @@
 <p>以也座論頭室業放。要車時地變此親不老高小是統習直麼調未，行年香一？<]]>
     </summary>
     
-      <category term="programming" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/categories/programming/"/>
+      <category term="programming" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/categories/programming/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[Link Post]]></title>
-    <link href="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2013/01/02/link-post/"/>
-    <id>http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2013/01/02/link-post/</id>
+    <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2013/01/02/link-post/"/>
+    <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2013/01/02/link-post/</id>
     <published>2013-01-02T22:30:04.000Z</published>
     <updated>2015-05-02T23:10:03.000Z</updated>
     <content type="html"><![CDATA[<p>This is a link post. Clicking on the link should open <a href="http://www.google.com/" target="_blank" rel="external">Google</a> in a new tab or window.</p>
@@ -737,35 +737,35 @@
     <![CDATA[<p>This is a link post. Clicking on the link should open <a href="http://www.google.com/" target="_blank" rel="external">Google</a> in a new]]>
     </summary>
     
-      <category term="programming" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/categories/programming/"/>
+      <category term="programming" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/categories/programming/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[images]]></title>
-    <link href="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2012/06/26/images/"/>
-    <id>http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2012/06/26/images/</id>
+    <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2012/06/26/images/"/>
+    <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2012/06/26/images/</id>
     <published>2012-06-26T20:46:49.000Z</published>
-    <updated>2015-05-02T23:39:16.000Z</updated>
+    <updated>2015-05-03T13:57:39.000Z</updated>
     <content type="html"><![CDATA[<p>This is a image test post.</p>
-<p><img src="/tranquil-peak-hexo-theme/2012/06/26/images/image1.jpg" alt=""></p>
-<p><img src="/tranquil-peak-hexo-theme/2012/06/26/images/image2.jpg" alt="Caption"></p>
-<p><img src="/tranquil-peak-hexo-theme/2012/06/26/images/image3.jpg" alt=""></p>
+<p><img src="/tranquilpeak-hexo-theme/2012/06/26/images/image1.jpg" alt=""></p>
+<p><img src="/tranquilpeak-hexo-theme/2012/06/26/images/image2.jpg" alt="Caption"></p>
+<p><img src="/tranquilpeak-hexo-theme/2012/06/26/images/image3.jpg" alt=""></p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>This is a image test post.</p>
-<p><img src="/tranquil-peak-hexo-theme/2012/06/26/images/image1.jpg" alt=""></p>
-<p><img src="/tranquil-pe]]>
+<p><img src="/tranquilpeak-hexo-theme/2012/06/26/images/image1.jpg" alt=""></p>
+<p><img src="/tranquilpeak]]>
     </summary>
     
-      <category term="programming" scheme="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/categories/programming/"/>
+      <category term="programming" scheme="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/categories/programming/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[日本語テスト]]></title>
-    <link href="http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2012/04/12/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/"/>
-    <id>http://louisbarranqueiro.github.io/tranquil-peak-hexo-theme/2012/04/12/日本語テスト/</id>
+    <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2012/04/12/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/"/>
+    <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2012/04/12/日本語テスト/</id>
     <published>2012-04-12T21:33:26.000Z</published>
     <updated>2015-05-02T23:09:19.000Z</updated>
     <content type="html"><![CDATA[<p>This is a Japanese test post.</p>
