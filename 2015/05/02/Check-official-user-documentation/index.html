@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" >
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="generator" content="Tranquilpeak Hexo theme demo">
-    <title>Tranquilpeak Hexo theme demo - Check official user documentation</title>
+    <title>Check official user documentation - Tranquilpeak Hexo theme demo</title>
     <meta name="author" content="Louis Barranqueiro">
     <meta name="description" content="Tranquilpeak Hexo theme demo">
     <link rel="icon" href="/tranquilpeak-hexo-theme/assets/images/null">
@@ -204,7 +204,7 @@
 <li><strong>Hexo CLI</strong> : v0.1.4 or higher. Run <code>npm install hexo-cli -g</code></li>
 </ol>
 <h2 id="Installation">Installation</h2><ol>
-<li>Download the latest version built and ready for production here : [tranquilpeak-hexo-theme-built-for-production-1.0.2]<br>(<a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases/download/v1.0.2/tranquilpeak-hexo-theme-built-for-production-1.0.2.zip" target="_blank" rel="external">https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases/download/v1.0.2/tranquilpeak-hexo-theme-built-for-production-1.0.2.zip</a>) or choose an other version here : <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases" target="_blank" rel="external">all releases</a></li>
+<li>Download the latest version built and ready for production here : [tranquilpeak-hexo-theme-built-for-production-1.0.3]<br>(<a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases/download/v1.0.3/tranquilpeak-hexo-theme-built-for-production-1.0.3.zip" target="_blank" rel="external">https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases/download/v1.0.3/tranquilpeak-hexo-theme-built-for-production-1.0.3.zip</a>) or choose an other version here : <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases" target="_blank" rel="external">all releases</a></li>
 <li>Rename the folder in <code>tranquilpeak</code> and place it in <code>themes</code> folder of your Hexo blog</li>
 </ol>
 <h2 id="Hexo_configuration">Hexo configuration</h2><p>Modify the theme in <code>_config.yml</code> by changing <code>theme</code> variable  to <code>tranquilpeak</code></p>
@@ -282,11 +282,12 @@
 <figure class="highlight md"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">title: "all-archives"</span><br><span class="line"><span class="header">layout: "all-archives"</span><br><span class="line">---</span></span><br></pre></td></tr></table></figure>
 <p>New page will be reach at : <code>/all-archives</code>.<br>On this page, users will be able to search and filter posts.<br><strong>Search pattern</strong> : YYYY/MMM/DD</p>
 <h2 id="Writing_posts">Writing posts</h2><h3 id="Front-matter_settings">Front-matter settings</h3><p>Tranquilpeak introduces 2 new variables to configure precisly the style of your post : <code>thumbnailImage</code> and <code>coverImage</code>.  </p>
-<p>Example :<br><figure class="highlight md"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">thumbnailImage: image-1.png</span><br><span class="line">coverImage: image-2.png</span><br><span class="line">photos:</span><br><span class="line"><span class="code">    - image-3.jpg</span></span><br><span class="line"><span class="code">    - image-4.png</span></span><br></pre></td></tr></table></figure></p>
+<p>Example :<br><figure class="highlight md"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">thumbnailImage: image-1.png</span><br><span class="line">coverImage: image-2.png</span><br><span class="line">photos:</span><br><span class="line"><span class="code">    - image-3.jpg</span></span><br><span class="line"><span class="code">    - image-4.png</span></span><br><span class="line">comments: false</span><br></pre></td></tr></table></figure></p>
 <ul>
-<li><strong>thumbnailImage</strong> : Image displayed in index view</li>
+<li><strong>thumbnailImage</strong> : Image displayed in index view.</li>
 <li><strong>coverImage</strong> : Image displayed in large at the top of your post in post view. If thumbnail image is not configured, cover image is also used as thumbnail image.</li>
 <li><strong>photos</strong> : Images displayed in an image gallery at the end of the post. If thumbnail image is not configured and cover image too, the first photo is used as thumbnail image.</li>
+<li><strong>comments</strong> : Disable the comment of the post.</li>
 </ul>
 <p>The relative path of images entered is : <code>source/_posts/{YOUR_POST_TITLE}/</code>, you just have to enter the name of the image without domain name and path like written just above.<br>Of course, you can set external url.</p>
 <h2 id="Running">Running</h2><p>Run <code>hexo server</code> and start writing! :)</p>
@@ -309,7 +310,7 @@
         <ul class="post-actions post-action-nav">
             <li class="post-action">
                 
-                    <a class="post-action-btn btn btn--default tooltip--top" href="/tranquilpeak-hexo-theme/2015/05/02/hello-world/"  data-tooltip="Say hello to Tranquilpeak v1.0.2">
+                    <a class="post-action-btn btn btn--default tooltip--top" href="/tranquilpeak-hexo-theme/2015/05/02/hello-world/"  data-tooltip="Say hello to Tranquilpeak v1.0.3">
                 
                     <i class="fa fa-angle-left"></i>
                     <span class="hide-xs hide-sm text-small icon-ml">PREVIOUS</span>
@@ -341,64 +342,22 @@
                 <i class="fa fa-twitter"></i>
             </a>
         </li>
-        <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" href="#disqus_thread">
-                <i class="fa fa-comment-o"></i>
-            </a>
-        </li>
+        
+            <li class="post-action hide-xs">
+                <a class="post-action-btn btn btn--default" href="#disqus_thread">
+                    <i class="fa fa-comment-o"></i>
+                </a>
+            </li>
+        
     </ul>
 </div>
 
 
         
-    </div>
-    <div class="post-bottom-bar">
-        <div class="post-actions-wrap">
-    <nav>
-        <ul class="post-actions post-action-nav">
-            <li class="post-action">
-                
-                    <a class="post-action-btn btn btn--default tooltip--top" href="/tranquilpeak-hexo-theme/2015/05/02/hello-world/"  data-tooltip="Say hello to Tranquilpeak v1.0.2">
-                
-                    <i class="fa fa-angle-left"></i>
-                    <span class="hide-xs hide-sm text-small icon-ml">PREVIOUS</span>
-                </a>
-            </li>
-            <li class="post-action">
-                
-                    <a class="post-action-btn btn btn--default tooltip--top" href="/tranquilpeak-hexo-theme/2015/05/02/Check-official-developer-documentation/" data-tooltip="Check official developer documentation">
-                
-                    <span class="hide-xs hide-sm text-small icon-mr">NEXT</span>
-                    <i class="fa fa-angle-right"></i>
-                </a>
-            </li>
-        </ul>
-    </nav>
-    <ul class="post-actions post-action-share">
-        <li class="post-action">
-            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/02/Check-official-user-documentation/">
-                <i class="fa fa-google-plus"></i>
-            </a>
-        </li>
-        <li class="post-action">
-            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/02/Check-official-user-documentation/">
-                <i class="fa fa-facebook-official"></i>
-            </a>
-        </li>
-        <li class="post-action">
-            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/02/Check-official-user-documentation/">
-                <i class="fa fa-twitter"></i>
-            </a>
-        </li>
-        <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" href="#disqus_thread">
-                <i class="fa fa-comment-o"></i>
-            </a>
-        </li>
-    </ul>
+            <div id="disqus_thread">
+    <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 </div>
-
-
+        
     </div>
 </article>
 
@@ -411,6 +370,58 @@
 </footer>
 
             </div>
+            
+                <div class="post-bottom-bar">
+                    <div class="post-actions-wrap">
+    <nav>
+        <ul class="post-actions post-action-nav">
+            <li class="post-action">
+                
+                    <a class="post-action-btn btn btn--default tooltip--top" href="/tranquilpeak-hexo-theme/2015/05/02/hello-world/"  data-tooltip="Say hello to Tranquilpeak v1.0.3">
+                
+                    <i class="fa fa-angle-left"></i>
+                    <span class="hide-xs hide-sm text-small icon-ml">PREVIOUS</span>
+                </a>
+            </li>
+            <li class="post-action">
+                
+                    <a class="post-action-btn btn btn--default tooltip--top" href="/tranquilpeak-hexo-theme/2015/05/02/Check-official-developer-documentation/" data-tooltip="Check official developer documentation">
+                
+                    <span class="hide-xs hide-sm text-small icon-mr">NEXT</span>
+                    <i class="fa fa-angle-right"></i>
+                </a>
+            </li>
+        </ul>
+    </nav>
+    <ul class="post-actions post-action-share">
+        <li class="post-action">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/02/Check-official-user-documentation/">
+                <i class="fa fa-google-plus"></i>
+            </a>
+        </li>
+        <li class="post-action">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/02/Check-official-user-documentation/">
+                <i class="fa fa-facebook-official"></i>
+            </a>
+        </li>
+        <li class="post-action">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/02/Check-official-user-documentation/">
+                <i class="fa fa-twitter"></i>
+            </a>
+        </li>
+        
+            <li class="post-action hide-xs">
+                <a class="post-action-btn btn btn--default" href="#disqus_thread">
+                    <i class="fa fa-comment-o"></i>
+                </a>
+            </li>
+        
+    </ul>
+</div>
+
+
+                </div>
+            
         </div>
         <div id="about">
     <div id="about-card">
@@ -428,7 +439,7 @@
             <h5 id="about-card-job">
                 <i class="fa fa-briefcase"></i>
                 <br/>
-                Software developer
+                Software engineer
             </h5>
         
         
@@ -445,6 +456,17 @@
     <!--SCRIPTS-->
 <script src="/tranquilpeak-hexo-theme/assets/js/script.min.js" type="text/javascript"></script>
 <!--SCRIPTS END-->
+
+    <script type="text/javascript">
+        var disqus_shortname = 'tranquilpeak-hexo-theme';
+        (function() {
+            var dsq = document.createElement('script');
+            dsq.type = 'text/javascript';
+            dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
 
 
 </html>

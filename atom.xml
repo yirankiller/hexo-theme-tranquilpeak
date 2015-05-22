@@ -4,7 +4,7 @@
   
   <link href="/tranquilpeak-hexo-theme//atom.xml" rel="self"/>
   <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/"/>
-  <updated>2015-05-17T21:19:07.000Z</updated>
+  <updated>2015-05-22T23:03:59.000Z</updated>
   <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/</id>
   
   <author>
@@ -15,11 +15,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[Say hello to Tranquilpeak v1.0.2]]></title>
+    <title><![CDATA[Say hello to Tranquilpeak v1.0.3]]></title>
     <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/02/hello-world/"/>
     <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/02/hello-world/</id>
     <published>2015-05-02T05:54:05.000Z</published>
-    <updated>2015-05-17T21:19:07.000Z</updated>
+    <updated>2015-05-22T23:03:59.000Z</updated>
     <content type="html"><![CDATA[<h1 id="Tranquilpeak_Hexo_theme">Tranquilpeak Hexo theme</h1><p>A gorgeous responsive theme for Hexo blog framework </p>
 <p><img src="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/02/hello-world/tranquilpeak.png" alt="Tranquil Peak"></p>
 <h2 id="Summary">Summary</h2><ul>
@@ -38,7 +38,7 @@
 </ul>
 <h2 id="General">General</h2><ul>
 <li><strong>Author</strong> : Louis Barranqueiro</li>
-<li><strong>Latest version</strong> : 1.0.2  </li>
+<li><strong>Latest version</strong> : 1.0.3  </li>
 <li><strong>Compatibility</strong> : Hexo v3.0.0 or higher  </li>
 </ul>
 <h2 id="Features">Features</h2><p><strong>General features :</strong>  </p>
@@ -66,19 +66,32 @@
 <li>Gravatar  </li>
 <li>Google analytics  </li>
 </ul>
-<h2 id="Quick_start">Quick start</h2><p><strong>For users</strong> :  </p>
-<ol>
-<li>Download the latest version ready for production utilisation here : [tranquilpeak-hexo-theme-built-for-production-1.0.2]<br>(<a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases/download/v1.0.2/tranquilpeak-hexo-theme-built-for-production-1.0.2.zip" target="_blank" rel="external">https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases/download/v1.0.2/tranquilpeak-hexo-theme-built-for-production-1.0.2.zip</a>) or choose an other version here : <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases" target="_blank" rel="external">all releases</a>  </li>
+<h2 id="Quick_start">Quick start</h2><h5 id="For_people_who_want_to_use_the_original_version_of_Tranquilpeak_(users)">For people who want to use the original version of Tranquilpeak (users)</h5><ol>
+<li>Download the latest version ready for production utilisation here : [tranquilpeak-hexo-theme-built-for-production-1.0.3]<br>(<a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases/download/v1.0.3/tranquilpeak-hexo-theme-built-for-production-1.0.3.zip" target="_blank" rel="external">https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases/download/v1.0.3/tranquilpeak-hexo-theme-built-for-production-1.0.3.zip</a>) or choose an other version here : <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases" target="_blank" rel="external">all releases</a>  </li>
 <li>Follow <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/blob/master/docs/user.md" target="_blank" rel="external">user documentation</a> to install and configure the theme  </li>
 </ol>
-<p><strong>For developers</strong> : Run <code>git clone https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme.git</code></p>
-<h2 id="Demo">Demo</h2><p>Check Tranquilpeak theme in live  : <a href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme" target="_blank" rel="external">Tranquilpeak-hexo-theme demo</a></p>
-<h2 id="Showcase">Showcase</h2><p>I would like to create a showcase with all blogs which use Tranquilpeak theme. Please, <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/issues/new?title=Add%20my%20blog%20into%20showcase&amp;body=Hey,%20the%20URL%20of%20my%20blog%20is:%20" target="_blank" rel="external">Add yours :)</a></p>
+<h5 id="For_people_who_want_to_create_their_own_version_of_tranquilpeak_(developers)">For people who want to create their own version of tranquilpeak (developers)</h5><ol>
+<li>Run <code>git clone https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme.git</code>  </li>
+<li>Follow <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/blob/master/docs/developer.md" target="_blank" rel="external">developer documentation</a> to edit and build the theme  </li>
+</ol>
+<h2 id="Demo">Demo</h2><p>Check out Tranquilpeak theme in live  : <a href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme" target="_blank" rel="external">Tranquilpeak-hexo-theme demo</a></p>
+<h2 id="Showcase">Showcase</h2><p>I would like to create a showcase with all blogs having a customized version of tranquilpeak theme.<br>If you have customized the original version, please, add your blog into.</p>
+<h5 id="Via_an_issue">Via an issue</h5><ol>
+<li>Create an issue with your blog url and a short description of your changes by clicking <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/issues/new?title=Add%20my%20blog%20into%20showcase&amp;body=Hey,%20check%20out%20my%20custom%20version%20of%20Tranquilpeak%20:%0D%0A*%20URL%20:%20%0D%0A*%20Changes%20(short%20description" target="_blank" rel="external">here</a>%20:%20)  </li>
+</ol>
+<h5 id="Via_a_pull_request">Via a pull request</h5><ol>
+<li>Fork the project  </li>
+<li>On the master branch, add your blog URL, a short description of your changes and your github name into <code>SHOWCASE.md</code> file  </li>
+<li>Respect the format : <code>[url_of_your_blog](url_of_your_blog) - short_description_of_your_changes - [github_name](url_of_your_github_page)</code>  </li>
+<li>Create a pull request on the master branch   </li>
+</ol>
+<p>I will judge if the theme is enough customized to be added into showcase.</p>
 <h2 id="Documentation">Documentation</h2><p>If it’s your first time using Hexo, please check <a href="https://hexo.io/docs/" target="_blank" rel="external">Hexo official documentation</a></p>
-<h3 id="For_users">For users</h3><p>To install and configure the theme, consult the following documentation : <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/blob/master/docs/user.md" target="_blank" rel="external">user documentation</a></p>
-<h3 id="For_developers">For developers</h3><p>To understand better the code and modify the theme, consult the following documentation : <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/blob/master/docs/developer.md" target="_blank" rel="external">developer documentation</a></p>
-<h2 id="Contributing">Contributing</h2><p>All kinds of contributions (enhancements, new features, documentation &amp; code improvements, issues &amp; bugs reporting) are welcome.</p>
-<h2 id="License">License</h2><p>tranquilpeak-hexo-theme is released under the terms of the <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/blob/master/LICENSE" target="_blank" rel="external">GNU General Public License v3.0</a></p>
+<h5 id="For_users">For users</h5><p>To install and configure the theme, consult the following documentation : <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/blob/master/docs/user.md" target="_blank" rel="external">user documentation</a>  </p>
+<h5 id="For_developers">For developers</h5><p>To understand better the code and edit  the theme, consult the following documentation : <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/blob/master/docs/developer.md" target="_blank" rel="external">developer documentation</a></p>
+<h2 id="Contributing">Contributing</h2><p><a href="https://gitter.im/LouisBarranqueiro/tranquilpeak-hexo-theme?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge&amp;utm_content=badge" target="_blank" rel="external"><img src="https://badges.gitter.im/Join%20Chat.svg" alt="Join the chat at https://gitter.im/LouisBarranqueiro/tranquilpeak-hexo-theme"></a></p>
+<p>All kinds of contributions (enhancements, new features, documentation &amp; code improvements, issues &amp; bugs reporting) are welcome.</p>
+<h2 id="License">License</h2><p>Tranquilpeak-hexo-theme is released under the terms of the <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/blob/master/LICENSE" target="_blank" rel="external">GNU General Public License v3.0</a></p>
 ]]></content>
     <summary type="html">
     <![CDATA[<h1 id="Tranquilpeak_Hexo_theme">Tranquilpeak Hexo theme</h1><p>A gorgeous responsive theme for Hexo blog framework </p>
@@ -94,7 +107,7 @@
     <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/02/Check-official-user-documentation/"/>
     <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/02/Check-official-user-documentation/</id>
     <published>2015-05-02T05:51:18.000Z</published>
-    <updated>2015-05-17T21:05:53.000Z</updated>
+    <updated>2015-05-22T23:03:39.000Z</updated>
     <content type="html"><![CDATA[<h1 id="User_documentation">User documentation</h1><p>Tranquilpeak theme is comptabile with Hexo v3.0.0 or higher</p>
 <p>This documentation will help you to install tranquilpeak-hexo-theme and configure it to use all features which it provides.  </p>
 <p>If you want to report a bug or ask a question, <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/issues/new" target="_blank" rel="external">create an issue</a>.</p>
@@ -128,7 +141,7 @@
 <li><strong>Hexo CLI</strong> : v0.1.4 or higher. Run <code>npm install hexo-cli -g</code></li>
 </ol>
 <h2 id="Installation">Installation</h2><ol>
-<li>Download the latest version built and ready for production here : [tranquilpeak-hexo-theme-built-for-production-1.0.2]<br>(<a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases/download/v1.0.2/tranquilpeak-hexo-theme-built-for-production-1.0.2.zip" target="_blank" rel="external">https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases/download/v1.0.2/tranquilpeak-hexo-theme-built-for-production-1.0.2.zip</a>) or choose an other version here : <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases" target="_blank" rel="external">all releases</a></li>
+<li>Download the latest version built and ready for production here : [tranquilpeak-hexo-theme-built-for-production-1.0.3]<br>(<a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases/download/v1.0.3/tranquilpeak-hexo-theme-built-for-production-1.0.3.zip" target="_blank" rel="external">https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases/download/v1.0.3/tranquilpeak-hexo-theme-built-for-production-1.0.3.zip</a>) or choose an other version here : <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases" target="_blank" rel="external">all releases</a></li>
 <li>Rename the folder in <code>tranquilpeak</code> and place it in <code>themes</code> folder of your Hexo blog</li>
 </ol>
 <h2 id="Hexo_configuration">Hexo configuration</h2><p>Modify the theme in <code>_config.yml</code> by changing <code>theme</code> variable  to <code>tranquilpeak</code></p>
@@ -206,11 +219,12 @@
 <figure class="highlight md"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">title: "all-archives"</span><br><span class="line"><span class="header">layout: "all-archives"</span><br><span class="line">---</span></span><br></pre></td></tr></table></figure>
 <p>New page will be reach at : <code>/all-archives</code>.<br>On this page, users will be able to search and filter posts.<br><strong>Search pattern</strong> : YYYY/MMM/DD</p>
 <h2 id="Writing_posts">Writing posts</h2><h3 id="Front-matter_settings">Front-matter settings</h3><p>Tranquilpeak introduces 2 new variables to configure precisly the style of your post : <code>thumbnailImage</code> and <code>coverImage</code>.  </p>
-<p>Example :<br><figure class="highlight md"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">thumbnailImage: image-1.png</span><br><span class="line">coverImage: image-2.png</span><br><span class="line">photos:</span><br><span class="line"><span class="code">    - image-3.jpg</span></span><br><span class="line"><span class="code">    - image-4.png</span></span><br></pre></td></tr></table></figure></p>
+<p>Example :<br><figure class="highlight md"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">thumbnailImage: image-1.png</span><br><span class="line">coverImage: image-2.png</span><br><span class="line">photos:</span><br><span class="line"><span class="code">    - image-3.jpg</span></span><br><span class="line"><span class="code">    - image-4.png</span></span><br><span class="line">comments: false</span><br></pre></td></tr></table></figure></p>
 <ul>
-<li><strong>thumbnailImage</strong> : Image displayed in index view</li>
+<li><strong>thumbnailImage</strong> : Image displayed in index view.</li>
 <li><strong>coverImage</strong> : Image displayed in large at the top of your post in post view. If thumbnail image is not configured, cover image is also used as thumbnail image.</li>
 <li><strong>photos</strong> : Images displayed in an image gallery at the end of the post. If thumbnail image is not configured and cover image too, the first photo is used as thumbnail image.</li>
+<li><strong>comments</strong> : Disable the comment of the post.</li>
 </ul>
 <p>The relative path of images entered is : <code>source/_posts/{YOUR_POST_TITLE}/</code>, you just have to enter the name of the image without domain name and path like written just above.<br>Of course, you can set external url.</p>
 <h2 id="Running">Running</h2><p>Run <code>hexo server</code> and start writing! :)</p>
@@ -502,7 +516,7 @@
     <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/03/03/gallery-post/"/>
     <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/03/03/gallery-post/</id>
     <published>2015-03-02T23:16:18.000Z</published>
-    <updated>2015-05-02T23:11:43.000Z</updated>
+    <updated>2015-05-22T20:49:25.000Z</updated>
     <content type="html"><![CDATA[<p>This post contains 4 photos:</p>
 <ul>
 <li>Widescreen wallpaper</li>
