@@ -1059,6 +1059,9 @@ a.category--small,
   font-size: 25px;
   line-height: 30px; }
 
+.hide {
+  display: none; }
+
 @media only screen and (max-width: 479px) {
   .hide-xs {
     display: none; } }

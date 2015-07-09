@@ -4,7 +4,7 @@
   
   <link href="/tranquilpeak-hexo-theme//atom.xml" rel="self"/>
   <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/"/>
-  <updated>2015-06-15T19:26:06.000Z</updated>
+  <updated>2015-06-16T17:58:12.000Z</updated>
   <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/</id>
   
   <author>
@@ -19,9 +19,9 @@
     <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/06/15/Welcome-to-the-new-Tranquilpeak/"/>
     <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/06/15/Welcome-to-the-new-Tranquilpeak/</id>
     <published>2015-06-15T18:30:05.000Z</published>
-    <updated>2015-06-15T19:26:06.000Z</updated>
+    <updated>2015-06-16T17:58:12.000Z</updated>
     <content type="html"><![CDATA[<p>Tranquilpeak is a gorgeous responsive theme for Hexo blog framework. It has many features and integrated services to improve user experience.<br><a id="more"></a></p>
-<p><img src="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/06/15/Welcome-to-the-new-Tranquilpeak/tranquilpeak.png" alt="Tranquilpeak"></p>
+<p><img src="tranquilpeak.png" alt="Tranquilpeak"></p>
 <h2 id="Summary">Summary</h2><ul>
 <li><a href="#general">General</a></li>
 <li><a href="#features">Features</a></li>
@@ -123,7 +123,7 @@
     <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/28/Elements-showcase/"/>
     <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/28/Elements-showcase/</id>
     <published>2015-05-28T18:30:05.000Z</published>
-    <updated>2015-06-15T17:52:29.000Z</updated>
+    <updated>2015-06-26T15:04:25.000Z</updated>
     <content type="html"><![CDATA[<p>Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It’s simple and elegant.<br><a id="more"></a></p>
 <hr>
 <h1 id="Heading_1">Heading 1</h1><h2 id="Heading_2">Heading 2</h2><h3 id="Heading_3">Heading 3</h3><h4 id="Heading_4">Heading 4</h4><h5 id="Heading_5">Heading 5</h5><h6 id="Heading_6">Heading 6</h6><hr>
@@ -132,7 +132,7 @@
 <blockquote>
 <p>Praesent diam elit, interdum ut pulvinar placerat, imperdiet at magna.</p>
 </blockquote>
-<p>Maecenas ornare arcu at mi suscipit, non molestie tortor ultrices. Aenean convallis, diam et congue ultricies, erat magna tincidunt orci, pulvinar posuere mi sapien ac magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent vitae placerat mauris. Nullam laoreet ante posuere tortor blandit auctor. Sed id ligula volutpat leo consequat placerat. Mauris fermentum dolor sed augue malesuada sollicitudin. Vivamus ultrices nunc felis, quis viverra orci eleifend ut. Donec et quam id urna cursus posuere. Donec elementum scelerisque laoreet.</p>
+<p><div class="pullquote right"><br>Praesent diam elit, interdum ut pulvinar placerat, imperdiet at magna.<br></div><br>Maecenas ornare arcu at mi suscipit, non molestie tortor ultrices. Aenean convallis, diam et congue ultricies, erat magna tincidunt orci, pulvinar posuere mi sapien ac magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent vitae placerat mauris. Nullam laoreet ante posuere tortor blandit auctor. Sed id ligula volutpat leo consequat placerat. Mauris fermentum dolor sed augue malesuada sollicitudin. Vivamus ultrices nunc felis, quis viverra orci eleifend ut. Donec et quam id urna cursus posuere. Donec elementum scelerisque laoreet.</p>
 <h2 id="List_Types">List Types</h2><h3 id="Definition_List_(dl)">Definition List (dl)</h3><dl><dt>Definition List Title</dt><dd>This is a definition list division.</dd></dl>
 
 <h3 id="Ordered_List_(ol)">Ordered List (ol)</h3><ol>
