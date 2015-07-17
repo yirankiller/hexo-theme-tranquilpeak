@@ -8,25 +8,47 @@
     <title>marc - Tranquilpeak Hexo theme demo</title>
     <meta name="author" content="Louis Barranqueiro">
     <meta name="description" content="Tranquilpeak Hexo theme demo">
-    <link rel="icon" href="/tranquilpeak-hexo-theme/assets/images/null">
+    
     
         <link rel="alternative" type="application/atom+xml" title="RSS" href="/atom.xml">
     
+    <!-- Open Graph tags -->
+    <meta name="description">
+<meta property="og:type" content="blog">
+<meta property="og:title" content="marc">
+<meta property="og:url" content="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/test/marc.html">
+<meta property="og:site_name" content="Tranquilpeak Hexo theme demo">
+<meta property="og:description">
+<meta property="og:image" content="tranquilpeak.png">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="marc">
+<meta name="twitter:description">
+<meta property="fb:admins" content="123123,124421">
+    <!-- User image (gravatar or profile picture) -->
+    
+        <meta property="og:image" content="http://www.gravatar.com/avatar/c91acb7faf4cf918fcb1b912810d323d"/>
+    
+    <!-- Cover image of the post -->
+    
+        <meta property="og:image" content="/tranquilpeak-hexo-theme/test/marc/tranquilpeak.png"/>
+    
+    <!--Thumbnail image image of the post -->
+    
+        <meta property="og:image" content="/tranquilpeak-hexo-theme/test/marc/tranquilpeak.png"/>
+    
+    <!-- Photos of the post -->
+    
+        
+            <meta property="og:image" content="/tranquilpeak-hexo-theme/test/marc/tranquilpeak.png" />
+        
+    
     <!--STYLES-->
-    <link rel="stylesheet" href="/tranquilpeak-hexo-theme/assets/css/style.min.css" type="text/css">
+    <link rel="stylesheet" href="/tranquilpeak-hexo-theme/assets/css/font-awesome.css" type="text/css">
+    <link rel="stylesheet" href="/tranquilpeak-hexo-theme/assets/css/jquery.fancybox.css" type="text/css">
+    <link rel="stylesheet" href="/tranquilpeak-hexo-theme/assets/css/jquery.fancybox-thumbs.css" type="text/css">
+    <link rel="stylesheet" href="/tranquilpeak-hexo-theme/assets/css/tranquilpeak.css" type="text/css">
     <!--STYLES END-->
     
-    <script type="text/javascript">
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-62267401-1']);
-        _gaq.push(['_trackPageview']);
-        (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-    </script>
-
 </head>
 
     <body>
@@ -34,7 +56,7 @@
             <header id="header" data-behavior="1">
     <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
     <h1 class="header-title">
-        <a class="header-title-link" href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme">Tranquilpeak Hexo theme demo</a>
+        <a class="header-title-link" href="/tranquilpeak-hexo-theme/ ">Tranquilpeak Hexo theme demo</a>
     </h1>
     
         <a class="header-right-picture" href="/#about">
@@ -58,7 +80,9 @@
         
         <li class="sidebar-button">
             
-                <a  class="sidebar-button-link " href="/tranquilpeak-hexo-theme/">
+                <a  class="sidebar-button-link "
+                    href="/tranquilpeak-hexo-theme/ 
+                    ">
             
                     <i class="sidebar-button-icon fa fa-lg fa-home"></i>
                     <span class="sidebar-button-desc">Home</span>
@@ -67,7 +91,9 @@
         
         <li class="sidebar-button">
             
-                <a  class="sidebar-button-link " href="/tranquilpeak-hexo-theme/all-categories">
+                <a  class="sidebar-button-link "
+                    href="/tranquilpeak-hexo-theme/all-categories
+                            ">
             
                     <i class="sidebar-button-icon fa fa-lg fa-bookmark"></i>
                     <span class="sidebar-button-desc">Categories</span>
@@ -76,7 +102,9 @@
         
         <li class="sidebar-button">
             
-                <a  class="sidebar-button-link " href="/tranquilpeak-hexo-theme/all-tags">
+                <a  class="sidebar-button-link "
+                    href="/tranquilpeak-hexo-theme/all-tags
+                            ">
             
                     <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
                     <span class="sidebar-button-desc">Tags</span>
@@ -85,7 +113,9 @@
         
         <li class="sidebar-button">
             
-                <a  class="sidebar-button-link " href="/tranquilpeak-hexo-theme/all-archives">
+                <a  class="sidebar-button-link "
+                    href="/tranquilpeak-hexo-theme/all-archives
+                            ">
             
                     <i class="sidebar-button-icon fa fa-lg fa-archive"></i>
                     <span class="sidebar-button-desc">Archives</span>
@@ -94,7 +124,9 @@
         
         <li class="sidebar-button">
             
-                <a  class="sidebar-button-link st-search-show-outputs" href="/tranquilpeak-hexo-theme/#search">
+                <a  class="sidebar-button-link st-search-show-outputs"
+                    href="/tranquilpeak-hexo-theme/#search
+                            ">
             
                     <i class="sidebar-button-icon fa fa-lg fa-search"></i>
                     <span class="sidebar-button-desc">Search</span>
@@ -103,7 +135,9 @@
         
         <li class="sidebar-button">
             
-                <a  class="sidebar-button-link " href="/tranquilpeak-hexo-theme/#about">
+                <a  class="sidebar-button-link "
+                    href="/tranquilpeak-hexo-theme/#about
+                            ">
             
                     <i class="sidebar-button-icon fa fa-lg fa-question"></i>
                     <span class="sidebar-button-desc">About me</span>
@@ -114,40 +148,15 @@
     
     <ul class="sidebar-buttons">
         
-        <li class="sidebar-button">
-            
-                <a  class="sidebar-button-link " href="https://github.com/LouisBarranqueiro" target="_blank">
-            
-                    <i class="sidebar-button-icon fa fa-lg fa-github"></i>
-                    <span class="sidebar-button-desc">GitHub</span>
-                </a>
-        </li>
-        
-        <li class="sidebar-button">
-            
-                <a  class="sidebar-button-link " href="http://stackoverflow.com/users/3755845/louis-barranqueiro" target="_blank">
-            
-                    <i class="sidebar-button-icon fa fa-lg fa-stack-overflow"></i>
-                    <span class="sidebar-button-desc">Stack Overflow</span>
-                </a>
-        </li>
-        
-        <li class="sidebar-button">
-            
-                <a  class="sidebar-button-link " href="https://twitter.com/" target="_blank">
-            
-                    <i class="sidebar-button-icon fa fa-lg fa-twitter"></i>
-                    <span class="sidebar-button-desc">Twitter</span>
-                </a>
-        </li>
-        
     </ul>
     
     <ul class="sidebar-buttons">
         
         <li class="sidebar-button">
             
-                <a  class="sidebar-button-link " href="/tranquilpeak-hexo-theme/atom.xml">
+                <a  class="sidebar-button-link "
+                    href="/tranquilpeak-hexo-theme/atom.xml
+                            ">
             
                     <i class="sidebar-button-icon fa fa-lg fa-rss"></i>
                     <span class="sidebar-button-desc">RSS</span>
@@ -161,14 +170,14 @@
                 
 <article class="post" itemscope itemType="http://schema.org/BlogPosting">
     
-        <div class="post-header-cover" style="background-image:url('/tranquilpeak-hexo-theme/test/marc.htmlmarc/tranquilpeak.png');">
+        <div class="post-header-cover" style="background-image:url('/tranquilpeak-hexo-theme/test/marc/tranquilpeak.png');">
             <div class="post-header main-content-wrap">
     
         <h1 class="post-title" itemprop="headline">marc</h1>
     
     <div class="post-meta">
-    <time  itemprop="datePublished" content="Sat Jun 27 2015 13:28:06 GMT+0200">
-        Jun 27, 2015
+    <time  itemprop="datePublished" content="Tue Jul 14 2015 15:05:45 GMT+0200">
+        Jul 14, 2015
     </time>
     
 </div>
@@ -193,8 +202,8 @@
                     
                 
                 <div class="photo-box">
-                    <a class="photo-box-inner fancybox" rel="fancybox-thumb" data-fancybox-group="gallery-undefined" title="marc/tranquilpeak" href="/tranquilpeak-hexo-theme/test/marc.htmlmarc/tranquilpeak.png">
-                        <img class="photo" src="/tranquilpeak-hexo-theme/test/marc.htmlmarc/tranquilpeak.png" itemprop="image">
+                    <a class="photo-box-inner fancybox" rel="fancybox-thumb" data-fancybox-group="gallery-undefined" title="tranquilpeak" href="/tranquilpeak-hexo-theme/test/marc/tranquilpeak.png">
+                        <img class="photo" src="/tranquilpeak-hexo-theme/test/marc/tranquilpeak.png" itemprop="image">
                     </a>
                 </div>
             
@@ -227,35 +236,39 @@
         </ul>
     </nav>
     <ul class="post-actions post-action-share">
-        <li class="post-action">
+        <li class="post-action hide-lg hide-md hide-sm">
+            <a class="post-action-btn btn btn--default btn-open-shareoptions"  href="#btn-open-shareoptions">
+                <i class="fa fa-share-alt"></i>
+            </a>
+        </li>
+        <li class="post-action hide-xs">
             <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/test/marc.html">
                 <i class="fa fa-google-plus"></i>
             </a>
         </li>
-        <li class="post-action">
+        <li class="post-action hide-xs">
             <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/test/marc.html">
                 <i class="fa fa-facebook-official"></i>
             </a>
         </li>
-        <li class="post-action">
+        <li class="post-action hide-xs">
             <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/test/marc.html">
                 <i class="fa fa-twitter"></i>
             </a>
         </li>
         
-            <li class="post-action hide-xs">
+            <li class="post-action">
                 <a class="post-action-btn btn btn--default" href="#disqus_thread">
                     <i class="fa fa-comment-o"></i>
                 </a>
             </li>
         
+        <li class="post-action">
+            <a class="post-action-btn btn btn--default" href="#">
+              <i class="fa fa-list"></i>
+            </a>
+        </li>
     </ul>
-</div>
-
-
-        
-            <div id="disqus_thread">
-    <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 </div>
         
     </div>
@@ -282,30 +295,17 @@
         
             <h4 id="about-card-name">Louis Barranqueiro</h4>
         
-            <h5 id="about-card-bio"><p>I created this gorgeous reponsive theme for me and for you. And guess what?!  It’s free! :)</p>
-</h5>
         
-        
-            <h5 id="about-card-job">
-                <i class="fa fa-briefcase"></i>
-                <br/>
-                <p>Software developer</p>
-
-            </h5>
-        
-        
-            <h5 id="about-card-location">
-                <i class="fa fa-map-marker"></i>
-                <br/>
-                France
-            </h5>
         
     </div>
 </div>
         <div id="cover" style="background-image:url('/tranquilpeak-hexo-theme/assets/images/cover.jpg');"></div>
     </body>
     <!--SCRIPTS-->
-<script src="/tranquilpeak-hexo-theme/assets/js/script.min.js" type="text/javascript"></script>
+<script src="/tranquilpeak-hexo-theme/assets/js/jquery.js" type="text/javascript"></script>
+<script src="/tranquilpeak-hexo-theme/assets/js/jquery.fancybox.js" type="text/javascript"></script>
+<script src="/tranquilpeak-hexo-theme/assets/js/jquery.fancybox-thumbs.js" type="text/javascript"></script>
+<script src="/tranquilpeak-hexo-theme/assets/js/tranquilpeak.js" type="text/javascript"></script>
 <!--SCRIPTS END-->
 
 
