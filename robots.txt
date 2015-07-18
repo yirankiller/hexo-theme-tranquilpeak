@@ -1,0 +1,7 @@
+User-agent: Swiftbot
+Disallow: /page/
+Disallow: /tags/
+Disallow: /categories/
+Disallow: /all-categories/
+Disallow: /all-tags/
+Disallow: /all-archives/
