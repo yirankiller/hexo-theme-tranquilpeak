@@ -1,4 +1,11 @@
 User-agent: Swiftbot
+Disallow: /tranquilpeak-hexo-theme-test/page/
+Disallow: /tranquilpeak-hexo-theme-test/tags/
+Disallow: /tranquilpeak-hexo-theme-test/categories/
+Disallow: /tranquilpeak-hexo-theme-test/archives/
+Disallow: /tranquilpeak-hexo-theme-test/all-categories/
+Disallow: /tranquilpeak-hexo-theme-test/all-tags/
+Disallow: /tranquilpeak-hexo-theme-test/all-archives/
 Disallow: /page/
 Disallow: /tags/
 Disallow: /categories/
