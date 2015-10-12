@@ -5,7 +5,7 @@
   
   <link href="/tranquilpeak-hexo-theme//atom.xml" rel="self"/>
   <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/tranquilpeak-hexo-theme//"/>
-  <updated>2015-10-12T12:16:50.000Z</updated>
+  <updated>2015-10-12T17:18:20.000Z</updated>
   <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/tranquilpeak-hexo-theme//</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/tranquilpeak-hexo-theme/2015/06/15/Welcome-to-the-new-Tranquilpeak/"/>
     <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/tranquilpeak-hexo-theme/2015/06/15/Welcome-to-the-new-Tranquilpeak/</id>
     <published>2015-06-15T20:30:05.000Z</published>
-    <updated>2015-10-12T12:16:50.000Z</updated>
+    <updated>2015-10-12T17:18:20.000Z</updated>
     <content type="html"><![CDATA[<!-- excerpt --></p>
 <p><img src="http://d1u9biwaxjngwg.cloudfront.net/showcases/showcase-v1.4.0.jpg" alt="Tranquilpeak"><br>Tranquilpeak is a gorgeous responsive theme for Hexo blog framework. It has many features and integrated services to improve user experience.<br><!-- toc --></p>
 <h2 id="General">General</h2><ul>
@@ -61,7 +61,7 @@
 </ul>
 <h2 id="Quick_start">Quick start</h2><p><strong>Please read <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/blob/master/docs/user.md" target="_blank" rel="external">user documentation</a>, it’s short and useful to discover all features and possibilities of the theme, especially the  <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/blob/master/docs/user.md#writing-posts" target="_blank" rel="external">writing posts</a> section</strong></p>
 <h5 id="For_people_who_want_to_use_the_original_version_of_Tranquilpeak_(users)">For people who want to use the original version of Tranquilpeak (users)</h5><ol>
-<li>Download the latest version ready for production utilisation here : [tranquilpeak-hexo-theme-built-for-production-1.4.0]<br>(<a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases/download/v1.4.0/tranquilpeak-hexo-theme-built-for-production-1.4.0.zip" target="_blank" rel="external">https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases/download/v1.4.0/tranquilpeak-hexo-theme-built-for-production-1.4.0.zip</a>) or choose an other version here : <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases" target="_blank" rel="external">all releases</a>  </li>
+<li>Download the latest version ready for production utilisation here : <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases/download/v1.4.0/tranquilpeak-hexo-theme-built-for-production-1.4.0.zip" target="_blank" rel="external">tranquilpeak-hexo-theme-built-for-production-1.4.0</a> or choose an other version here : <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases" target="_blank" rel="external">all releases</a>  </li>
 <li>Follow <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/blob/master/docs/user.md" target="_blank" rel="external">user documentation</a> to install and configure the theme  </li>
 </ol>
 <h5 id="For_people_who_want_to_create_their_own_version_of_tranquilpeak_(developers)">For people who want to create their own version of tranquilpeak (developers)</h5><ol>
@@ -71,7 +71,7 @@
 <h2 id="Demo">Demo</h2><p>Check out Tranquilpeak theme in live  : <a href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme">Tranquilpeak-hexo-theme demo</a></p>
 <h2 id="Showcase">Showcase</h2><p>I would like to create a showcase with all blogs having a customized version of tranquilpeak theme.<br>If you have customized the original version, please, add your blog into.</p>
 <h5 id="Via_an_issue">Via an issue</h5><ol>
-<li>Create an issue with your blog url and a short description of your changes by clicking <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/issues/new?title=Add%20my%20blog%20into%20showcase&amp;body=Hey,%20check%20out%20my%20custom%20version%20of%20Tranquilpeak%20:%0D%0A*%20URL%20:%20%0D%0A*%20Changes%20(short%20description" target="_blank" rel="external">here</a>%20:%20)  </li>
+<li>Create an issue with your blog url and a short description of your changes by clicking <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/issues/new?title=Add%20my%20blog%20into%20showcase&amp;body=Hey,%20check%20out%20my%20custom%20version%20of%20Tranquilpeak%20:%0D%0A*%20URL%20:%20%0D%0A*%20Changes%20[short%20description]%20:%20" target="_blank" rel="external">here</a> </li>
 </ol>
 <p>I will judge if the theme is enough customized to be added into showcase.</p>
 <h2 id="Documentation">Documentation</h2><p>If it’s your first time using Hexo, please check <a href="https://hexo.io/docs/" target="_blank" rel="external">Hexo official documentation</a></p>
