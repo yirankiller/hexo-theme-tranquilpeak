@@ -268,7 +268,7 @@
     <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2014/10/29/Tags-plugins-showcase/"/>
     <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2014/10/29/Tags-plugins-showcase/</id>
     <published>2014-10-29T20:30:05.000Z</published>
-    <updated>2015-10-19T15:24:25.000Z</updated>
+    <updated>2015-11-15T00:55:48.000Z</updated>
     <content type="html"><![CDATA[<p>This post is used to show how tag plugins are displayed. See <a href="http://zespia.tw/hexo/docs/tag-plugins.html" target="_blank" rel="external">docs</a> for more info.<br><a id="more"></a></p>
 <h2 id="Block_Quote_(blockquote)">Block Quote (blockquote)</h2><h3 id="Normal_blockquote">Normal blockquote</h3><blockquote>
 <p>Praesent diam elit, interdum ut pulvinar placerat, imperdiet at magna.</p>
@@ -281,6 +281,7 @@
 <footer><strong>Seth Godin</strong><cite><a href="http://sethgodin.typepad.com/seths_blog/2009/07/welcome-to-island-marketing.html" target="_blank" rel="external">Welcome to Island Marketing</a></cite></footer></blockquote>
 <h2 id="Wide_image_(wide_image)">Wide image (wide_image)</h2><!-- endcontent --><div class="figure figure--fullWidth"><img class="figure-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-1.jpg" alt="Mercedes SLS"><span class="caption">Mercedes SLS</span></div><!-- content -->
 <h2 id="Image_(image)">Image (image)</h2><div class="figure fig-100"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-15.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-15-750.jpg" width="" height="" alt=""></a></div>
+<div class="figure fig-100"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-15.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-15-750.jpg" width="50%" height="" alt=""></a></div>
 <div class="figure nocaption fig-50"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-4.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-4-375.jpg" ferrari""="" width="" height="" alt=""></a></div>
 <div class="figure nocaption fig-50"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-12.jpg" title="BMW i8 Concept" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-12-375.jpg" width="" height="" alt="BMW i8 Concept"></a></div>
 <div class="figure nocaption fig-33"><a class="fancybox" href="" title="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-14-250.jpg"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-14.jpg" width="" height="" alt="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-14-250.jpg"></a></div>
