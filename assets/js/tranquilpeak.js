@@ -763,7 +763,7 @@
         // Elements affected by the swipe of the sidebar
         // The `pushed` class is added to each elements
         // Each element has a different behavior when the sidebar is opened
-        this.$blog = $('body, .post-bottom-bar, #header, #main, .post-header-cover');
+        this.$blog = $('.post-bottom-bar, #header, #main, .post-header-cover');
         // If you change value of `mediumScreenWidth`,
         // you have to change value of `$screen-min: (md-min)` too in `source/_css/utils/variables.scss`
         this.mediumScreenWidth = 768;

@@ -4,7 +4,7 @@
   
   <link href="/tranquilpeak-hexo-theme//atom.xml" rel="self"/>
   <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/"/>
-  <updated>2015-10-19T16:12:18.000Z</updated>
+  <updated>2015-12-11T17:41:39.000Z</updated>
   <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/06/15/Welcome-to-the-new-Tranquilpeak/"/>
     <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/06/15/Welcome-to-the-new-Tranquilpeak/</id>
     <published>2015-06-15T20:30:05.000Z</published>
-    <updated>2015-10-19T16:12:18.000Z</updated>
+    <updated>2015-12-11T17:41:39.000Z</updated>
     <content type="html"><![CDATA[<!-- excerpt --></p>
 <p><img src="http://d1u9biwaxjngwg.cloudfront.net/showcases/showcase-v1.4.jpg" alt="Tranquilpeak"><br>Tranquilpeak is a gorgeous responsive theme for Hexo blog framework. It has many features and integrated services to improve user experience.<br><!-- toc --></p>
 <h2 id="General">General</h2><ul>
@@ -68,6 +68,7 @@
 <li>Follow <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/blob/master/docs/developer.md" target="_blank" rel="external">developer documentation</a> to edit and build the theme  </li>
 </ol>
 <h2 id="Demo">Demo</h2><p>Check out Tranquilpeak theme in live  : <a href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme">Tranquilpeak-hexo-theme demo</a></p>
+<div class="figure " style="width:300px;"><a class="fancybox" href="http://archive.globalgamejam.org/sites/default/files/uploads/2011/13965/ss1.jpg?1296360575" title="Game Blood 48:14 1" target="_blank" rel="external"><img class="fig-img" src="http://archive.globalgamejam.org/sites/default/files/uploads/2011/13965/ss1.jpg?1296360575" width="300px" height="" alt="Game Blood 48:14 1"></a><span class="caption">Game Blood 48:14 1</span></div>
 <h2 id="Showcase">Showcase</h2><p>I would like to create a showcase with all blogs having a customized version of tranquilpeak theme.<br>If you have customized the original version, please, add your blog into.</p>
 <h5 id="Via_an_issue">Via an issue</h5><ol>
 <li>Create an issue with your blog url and a short description of your changes by clicking <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/issues/new?title=Add%20my%20blog%20into%20showcase&amp;body=Hey,%20check%20out%20my%20custom%20version%20of%20Tranquilpeak%20:%0D%0A*%20URL%20:%20%0D%0A*%20Changes%20[short%20description]%20:%20" target="_blank" rel="external">here</a> </li>
@@ -108,7 +109,7 @@
     <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/28/Elements-showcase/"/>
     <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/28/Elements-showcase/</id>
     <published>2015-05-28T20:30:05.000Z</published>
-    <updated>2015-10-19T16:05:39.000Z</updated>
+    <updated>2015-12-11T17:38:21.000Z</updated>
     <content type="html"><![CDATA[<p>Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It’s simple and elegant.<br><a id="more"></a></p>
 <hr>
 <h1 id="Heading_1">Heading 1</h1><h2 id="Heading_2">Heading 2</h2><h3 id="Heading_3">Heading 3</h3><h4 id="Heading_4">Heading 4</h4><h5 id="Heading_5">Heading 5</h5><h6 id="Heading_6">Heading 6</h6><hr>
@@ -178,7 +179,7 @@
     <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/13/Cover-image-showcase/"/>
     <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/05/13/Cover-image-showcase/</id>
     <published>2015-05-13T20:30:05.000Z</published>
-    <updated>2015-10-12T09:50:51.000Z</updated>
+    <updated>2015-12-11T17:38:18.000Z</updated>
     <content type="html"><![CDATA[<p>Tranquilpeak integrate a unique “cover image” feature. Open this post to see how this feature sublimate your article.<br><a id="more"></a><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget urna vitae velit eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Aliquam eleifend dolor vitae libero pharetra adipiscing. Etiam adipiscing dolor a quam tempor, eu convallis nulla varius. Aliquam sollicitudin risus a porta aliquam. Ut nec velit dolor. Proin eget leo lobortis, aliquam est sed, mollis mauris. Fusce vitae leo pretium massa accumsan condimentum. Fusce malesuada gravida lectus vel vulputate. Donec bibendum porta nibh ut aliquam.<br>Sed lorem felis, congue non fringilla eu, aliquam eu eros. Curabitur orci libero, mollis sed semper vitae, adipiscing in lectus. Aenean non egestas odio. Donec sollicitudin nisi quis lorem gravida, in pharetra mauris fringilla. Duis sit amet faucibus dolor, id aliquam neque. In egestas, odio gravida tempor dictum, mauris felis faucibus purus, sit amet commodo lacus diam vitae est. Ut ut quam eget massa semper sodales. Aenean non ipsum cursus, blandit lectus in, ornare odio. Curabitur ultrices porttitor vulputate.<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget urna vitae velit eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Aliquam eleifend dolor vitae libero pharetra adipiscing. Etiam adipiscing dolor a quam tempor, eu convallis nulla varius. Aliquam sollicitudin risus a porta aliquam. Ut nec velit dolor. Proin eget leo lobortis, aliquam est sed, mollis mauris. Fusce vitae leo pretium massa accumsan condimentum. Fusce malesuada gravida lectus vel vulputate. Donec bibendum porta nibh ut aliquam.</p>
 <p>Sed lorem felis, congue non fringilla eu, aliquam eu eros. Curabitur orci libero, mollis sed semper vitae, adipiscing in lectus. Aenean non egestas odio. Donec sollicitudin nisi quis lorem gravida, in pharetra mauris fringilla. Duis sit amet faucibus dolor, id aliquam neque. In egestas, odio gravida tempor dictum, mauris felis faucibus purus, sit amet commodo lacus diam vitae est. Ut ut quam eget massa semper sodales. Aenean non ipsum cursus, blandit lectus in, ornare odio. Curabitur ultrices porttitor vulputate.<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget urna vitae velit eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Aliquam eleifend dolor vitae libero pharetra adipiscing. Etiam adipiscing dolor a quam tempor, eu convallis nulla varius. Aliquam sollicitudin risus a porta aliquam. Ut nec velit dolor. Proin eget leo lobortis, aliquam est sed, mollis mauris. Fusce vitae leo pretium massa accumsan condimentum. Fusce malesuada gravida lectus vel vulputate. Donec bibendum porta nibh ut aliquam.</p>
 <p>Sed lorem felis, congue non fringilla eu, aliquam eu eros. Curabitur orci libero, mollis sed semper vitae, adipiscing in lectus. Aenean non egestas odio. Donec sollicitudin nisi quis lorem gravida, in pharetra mauris fringilla. Duis sit amet faucibus dolor, id aliquam neque. In egestas, odio gravida tempor dictum, mauris felis faucibus purus, sit amet commodo lacus diam vitae est. Ut ut quam eget massa semper sodales. Aenean non ipsum cursus, blandit lectus in, ornare odio. Curabitur ultrices porttitor vulputate.</p>
@@ -201,7 +202,7 @@
     <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/03/23/highlighted-code-showcase/"/>
     <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/03/23/highlighted-code-showcase/</id>
     <published>2015-03-23T20:30:05.000Z</published>
-    <updated>2015-10-19T15:24:16.000Z</updated>
+    <updated>2015-12-11T17:38:25.000Z</updated>
     <content type="html"><![CDATA[<p>Tranquilpeak Hexo theme have its own theme to highlight source code. It’s based on GitHub theme: simple and elegant. Check out how it sublimate source codes.<br><a id="more"></a></p>
 <p>APACHECONF<br><figure class="highlight apacheconf"><figcaption><span>apache.conf</span><a href="http://underscorejs.org/#compact" target="_blank" rel="external">apache.conf</a></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># rewrite`s rules for wordpress pretty url</span></span><br><span class="line"><span class="keyword"><span class="common">LoadModule</span></span> rewrite_module  modules/mod_rewrite.so</span><br><span class="line"><span class="keyword"><span class="common">RewriteCond</span></span> <span class="cbracket">%&#123;REQUEST_FILENAME&#125;</span> !-f</span><br><span class="line"><span class="keyword"><span class="common">RewriteCond</span></span> <span class="cbracket">%&#123;REQUEST_FILENAME&#125;</span> !-d</span><br><span class="line"><span class="keyword"><span class="common">RewriteRule</span></span> . index.php<span class="sqbracket"> [NC,L]</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">ExpiresActive</span> <span class="literal">On</span></span><br><span class="line"><span class="keyword">ExpiresByType</span> application/x-javascript  <span class="string">"access plus 1 days"</span></span><br><span class="line"></span><br><span class="line"><span class="keyword"><span class="common">Order</span></span> Deny,Allow</span><br><span class="line"><span class="keyword"><span class="common">Allow</span></span> from <span class="literal">All</span></span><br><span class="line"></span><br><span class="line"><span class="tag">&lt;Location /maps/&gt;</span></span><br><span class="line">  <span class="keyword">RewriteMap</span> map txt:map.txt</span><br><span class="line">  <span class="keyword">RewriteMap</span> lower int:tolower</span><br><span class="line">  <span class="keyword"><span class="common">RewriteCond</span></span> <span class="cbracket">%&#123;REQUEST_URI&#125;</span> ^/([^/.]+)\.html$<span class="sqbracket"> [NC]</span></span><br><span class="line">  <span class="keyword"><span class="common">RewriteCond</span></span> <span class="cbracket">$&#123;map:<span class="cbracket">$&#123;lower:<span class="number">%1</span>&#125;</span>|NOT_FOUND&#125;</span> !NOT_FOUND</span><br><span class="line">  <span class="keyword"><span class="common">RewriteRule</span></span> .? /index.php?q=<span class="cbracket">$&#123;map:<span class="cbracket">$&#123;lower:<span class="number">%1</span>&#125;</span>&#125;</span><span class="sqbracket"> [NC,L]</span></span><br><span class="line"><span class="tag">&lt;/Location&gt;</span></span><br></pre></td></tr></table></figure></p>
 <p>BASH<br><figure class="highlight bash"><figcaption><span>test.bash</span><a href="http://underscorejs.org/#compact" target="_blank" rel="external">test.bash</a></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br></pre></td><td class="code"><pre><span class="line"><span class="shebang">#!/bin/bash</span><br><span class="line"></span></span><br><span class="line"><span class="comment">###### BEGIN CONFIG</span></span><br><span class="line">ACCEPTED_HOSTS=<span class="string">"/root/.hag_accepted.conf"</span></span><br><span class="line">BE_VERBOSE=<span class="literal">false</span></span><br><span class="line"><span class="comment">###### END CONFIG</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> [ <span class="string">"<span class="variable">$UID</span>"</span> <span class="operator">-ne</span> <span class="number">0</span> ]</span><br><span class="line"><span class="keyword">then</span></span><br><span class="line"> <span class="built_in">echo</span> <span class="string">"Superuser rights is required"</span></span><br><span class="line"> <span class="built_in">echo</span> <span class="string">'Printing the # sign'</span></span><br><span class="line"> <span class="built_in">exit</span> <span class="number">2</span></span><br><span class="line"><span class="keyword">fi</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">if</span> <span class="built_in">test</span> <span class="variable">$#</span> <span class="operator">-eq</span> <span class="number">0</span></span><br><span class="line"><span class="keyword">then</span></span><br><span class="line"><span class="keyword">elif</span> <span class="built_in">test</span> [ <span class="variable">$1</span> == <span class="string">'start'</span> ]</span><br><span class="line"><span class="keyword">else</span></span><br><span class="line"><span class="keyword">fi</span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="title">genApacheConf</span></span>()&#123;</span><br><span class="line"> <span class="keyword">if</span> [[ <span class="string">"<span class="variable">$2</span>"</span> = <span class="string">"www"</span> ]]</span><br><span class="line"> <span class="keyword">then</span></span><br><span class="line">  full_domain=<span class="variable">$1</span></span><br><span class="line"> <span class="keyword">else</span></span><br><span class="line">  full_domain=<span class="variable">$2</span>.<span class="variable">$1</span></span><br><span class="line"> <span class="keyword">fi</span></span><br><span class="line"> host_root=<span class="string">"<span class="variable">$&#123;APACHE_HOME_DIR&#125;</span><span class="variable">$1</span>/<span class="variable">$2</span>/<span class="variable">$(title)</span>"</span></span><br><span class="line"> <span class="built_in">echo</span> <span class="operator">-e</span> <span class="string">"# Host <span class="variable">$1</span>/<span class="variable">$2</span> :"</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></p>
@@ -268,7 +269,7 @@
     <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2014/10/29/Tags-plugins-showcase/"/>
     <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2014/10/29/Tags-plugins-showcase/</id>
     <published>2014-10-29T20:30:05.000Z</published>
-    <updated>2015-11-15T00:55:48.000Z</updated>
+    <updated>2015-12-11T17:38:36.000Z</updated>
     <content type="html"><![CDATA[<p>This post is used to show how tag plugins are displayed. See <a href="http://zespia.tw/hexo/docs/tag-plugins.html" target="_blank" rel="external">docs</a> for more info.<br><a id="more"></a></p>
 <h2 id="Block_Quote_(blockquote)">Block Quote (blockquote)</h2><h3 id="Normal_blockquote">Normal blockquote</h3><blockquote>
 <p>Praesent diam elit, interdum ut pulvinar placerat, imperdiet at magna.</p>
@@ -336,7 +337,7 @@
     <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2014/08/09/Video-integrations-showcase/"/>
     <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2014/08/09/Video-integrations-showcase/</id>
     <published>2014-08-09T20:30:05.000Z</published>
-    <updated>2015-10-19T15:24:28.000Z</updated>
+    <updated>2015-12-11T17:38:39.000Z</updated>
     <content type="html"><![CDATA[<p>Youtube and Vimeo videos are easily integrated thanks to tags plugins. Of course, you can add video other platforms like dailymotion.<br><a id="more"></a></p>
 <p><strong>Youtube</strong></p>
 <div class="video-container"><iframe src="//www.youtube.com/embed/xL45JMI8IFg" frameborder="0" allowfullscreen></iframe></div>
@@ -366,7 +367,7 @@
     <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2013/10/03/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/"/>
     <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2013/10/03/中文測試/</id>
     <published>2013-10-02T23:31:30.000Z</published>
-    <updated>2015-10-12T10:44:21.000Z</updated>
+    <updated>2015-12-11T17:38:46.000Z</updated>
     <content type="html"><![CDATA[<p>This is a chinese test post to show you how japanese is displayed.</p>
 <p>善我王上魚、產生資西員合兒臉趣論。畫衣生這著爸毛親可時，安程幾？合學作。觀經而作建。都非子作這！法如言子你關！手師也。<br><a id="more"></a><br>以也座論頭室業放。要車時地變此親不老高小是統習直麼調未，行年香一？</p>
 <p>就竟在，是我童示讓利分和異種百路關母信過明驗有個歷洋中前合著區亮風值新底車有正結，進快保的行戰從：弟除文辦條國備當來際年每小腳識世可的的外的廣下歌洲保輪市果底天影；全氣具些回童但倒影發狀在示，數上學大法很，如要我……月品大供這起服滿老？應學傳者國：山式排只不之然清同關；細車是！停屋常間又，資畫領生，相們制在？公別的人寫教資夠。資再我我！只臉夫藝量不路政吃息緊回力之；兒足灣電空時局我怎初安。意今一子區首者微陸現際安除發連由子由而走學體區園我車當會，經時取頭，嚴了新科同？很夫營動通打，出和導一樂，查旅他。坐是收外子發物北看蘭戰坐車身做可來。道就學務。</p>
@@ -395,7 +396,7 @@
     <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2013/02/18/Image-gallery-showcase/"/>
     <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2013/02/18/Image-gallery-showcase/</id>
     <published>2013-02-18T20:30:05.000Z</published>
-    <updated>2015-10-12T10:52:46.000Z</updated>
+    <updated>2015-12-11T17:38:30.000Z</updated>
     <content type="html"><![CDATA[<p>And here is the image gallery!<br><a id="more"></a></p>
 ]]></content>
     <summary type="html">
@@ -416,7 +417,7 @@
     <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2013/01/03/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/"/>
     <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2013/01/03/日本語テスト/</id>
     <published>2013-01-02T23:30:04.000Z</published>
-    <updated>2015-10-12T10:49:02.000Z</updated>
+    <updated>2015-12-11T17:38:49.000Z</updated>
     <content type="html"><![CDATA[<p>This is a Japanese test post to show you how japanese is displayed.<br>私は昨日ついにその助力家というのの上よりするたなけれ。<br><a id="more"></a><br>最も今をお話団はちょうどこの前後なかろでくらいに困りがいるたをは帰着考えたなかって、そうにもするでうたらない。<br>がたを知っないはずも同時に九月をいよいよたありた。</p>
 <p>もっと槙さんにぼんやり金少し説明にえた自分大した人私か影響にというお関係たうませないが、この次第も私か兄具合に使うて、槙さんののに当人のあなたにさぞご意味と行くて私個人が小尊敬を聴いように同時に同反抗に集っだうて、いよいよまず相当へあっうからいだ事をしでなけれ。</p>
 <blockquote>
@@ -443,7 +444,7 @@
     <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2012/04/13/link-post/"/>
     <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2012/04/13/link-post/</id>
     <published>2012-04-12T23:33:26.000Z</published>
-    <updated>2015-10-12T10:44:27.000Z</updated>
+    <updated>2015-12-11T17:38:33.000Z</updated>
     <content type="html"><![CDATA[<!-- excerpt --></p>]]></content>
     <summary type="html">
     <![CDATA[<p>This is a link post. Clicking on the link should open <a href="http://www.hexo.io/" target="_blank" rel="external">Hexo</a> in a new tab or window.<br>]]>
