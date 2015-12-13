@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[Tranquilpeak Hexo theme demo]]></title>
   
-  <link href="/tranquilpeak-hexo-theme//atom.xml" rel="self"/>
+  <link href="/hexo-theme-tranquilpeak//atom.xml" rel="self"/>
   <link href="http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/"/>
   <updated>2015-12-13T21:33:11.000Z</updated>
   <id>http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/</id>
