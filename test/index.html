@@ -10,7 +10,7 @@
     <meta name="author" content="Louis Barranqueiro">
     
     
-        <link rel="alternative" type="application/atom+xml" title="RSS" href="/atom.xml">
+        <link rel="alternate" type="application/atom+xml" title="RSS" href="/atom.xml">
     
     <meta name="description">
 <meta property="og:type" content="blog">
@@ -33,7 +33,7 @@
     
         
             <meta property="og:image" content="/tranquilpeak-hexo-theme/test/index/tranquilpeak.png" />
-            <meta class="swiftype" name="image" data-type="enum" content="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/test/index/tranquilpeak.png" />
+            <meta class="swiftype" name="image" data-type="enum" content="/tranquilpeak-hexo-theme/test/index/tranquilpeak.png" />
         
     
     <!--STYLES-->
@@ -327,9 +327,11 @@
 
 
         
-            <div id="disqus_thread">
+            
+                <div id="disqus_thread">
     <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 </div>
+            
         
     </div>
 </article>
@@ -345,7 +347,7 @@
             </div>
             
         </div>
-        <!-- Define author's picture -->
+        
 
 
     
@@ -360,14 +362,14 @@
         
             <h4 id="about-card-name">Louis Barranqueiro</h4>
         
-            <h5 id="about-card-bio"><p>I created this gorgeous reponsive <br/>theme for me and for you.<br/>And guess what?!<br/>It’s free! :)</p>
+            <h5 id="about-card-bio"><p>author.bio</p>
 </h5>
         
         
             <h5 id="about-card-job">
                 <i class="fa fa-briefcase"></i>
                 <br/>
-                <p>Software developer</p>
+                <p>author.job</p>
 
             </h5>
         
@@ -387,6 +389,23 @@
     <!--SCRIPTS-->
 <script src="/tranquilpeak-hexo-theme/assets/js/script.min.js" type="text/javascript"></script>
 <!--SCRIPTS END-->
+
+    
+        <script>
+             var disqus_config = function () {
+                 this.page.url = 'http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/test/index.html';
+                 this.page.identifier = 'test/index.html';
+             };
+            (function() {
+                var d = document, s = d.createElement('script');
+                var disqus_shortname = 'tranquilpeak-hexo-theme';
+                s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+
+                s.setAttribute('data-timestamp', +new Date());
+                (d.head || d.body).appendChild(s);
+            })();
+        </script>
+    
 
 
     <script type="text/javascript">

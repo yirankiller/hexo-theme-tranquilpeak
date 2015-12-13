@@ -4,7 +4,7 @@
   
   <link href="/tranquilpeak-hexo-theme//atom.xml" rel="self"/>
   <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/"/>
-  <updated>2015-12-11T17:41:39.000Z</updated>
+  <updated>2015-12-13T21:33:11.000Z</updated>
   <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/</id>
   
   <author>
@@ -15,16 +15,17 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[Welcome to Tranquilpeak 1.4]]></title>
+    <title><![CDATA[Welcome to Tranquilpeak 1.5]]></title>
     <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/06/15/Welcome-to-the-new-Tranquilpeak/"/>
     <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2015/06/15/Welcome-to-the-new-Tranquilpeak/</id>
     <published>2015-06-15T20:30:05.000Z</published>
-    <updated>2015-12-11T17:41:39.000Z</updated>
+    <updated>2015-12-13T21:33:11.000Z</updated>
     <content type="html"><![CDATA[<!-- excerpt --></p>
-<p><img src="http://d1u9biwaxjngwg.cloudfront.net/showcases/showcase-v1.4.jpg" alt="Tranquilpeak"><br>Tranquilpeak is a gorgeous responsive theme for Hexo blog framework. It has many features and integrated services to improve user experience.<br><!-- toc --></p>
+<p><img src="http://d1u9biwaxjngwg.cloudfront.net/showcases/showcase-v1.5.jpg" alt="Tranquilpeak"><br>Tranquilpeak is a gorgeous responsive theme for Hexo blog framework. It has many features and integrated services to improve user experience.</p>
+<!-- toc -->
 <h2 id="General">General</h2><ul>
 <li><strong>Author</strong> : Louis Barranqueiro</li>
-<li><strong>Version</strong> : 1.4.2 </li>
+<li><strong>Version</strong> : 1.5.0 </li>
 <li><strong>Compatibility</strong> : Hexo 3.0.0 or later</li>
 </ul>
 <h2 id="Features">Features</h2><p><strong>General features :</strong>  </p>
@@ -53,30 +54,33 @@
 <p><strong>Integrated services :</strong>  </p>
 <ul>
 <li>Disqus  </li>
+<li>Duoshuo  </li>
 <li>Google analytics  </li>
 <li>Gravatar  </li>
 <li>Swiftype  </li>
 <li>Facebook Insights  </li>
 </ul>
-<h2 id="Quick_start">Quick start</h2><p><strong>Please read <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/blob/master/docs/user.md" target="_blank" rel="external">user documentation</a>, it’s short and useful to discover all features and possibilities of the theme, especially the  <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/blob/master/docs/user.md#writing-posts" target="_blank" rel="external">writing posts</a> section</strong></p>
-<h5 id="For_people_who_want_to_use_the_original_version_of_Tranquilpeak_(users)">For people who want to use the original version of Tranquilpeak (users)</h5><ol>
-<li>Download the latest version ready for production utilisation here : <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases/download/v1.4.2/tranquilpeak-hexo-theme-built-for-production-1.4.2.zip" target="_blank" rel="external">tranquilpeak-hexo-theme-built-for-production-1.4.2</a> or choose an other version here : <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases" target="_blank" rel="external">all releases</a>  </li>
+<h2 id="Quick_start">Quick start</h2><p>Please read <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/blob/master/docs/user.md" target="_blank" rel="external">user documentation</a>, it’s short and useful to discover all features and possibilities of the theme, especially the  <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/blob/master/docs/user.md#writing-posts" target="_blank" rel="external">writing posts</a> section</p>
+<p><strong>For people who want to use the original version of Tranquilpeak (users)</strong> :</p>
+<ol>
+<li>Download the latest version ready for production utilisation here : <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/releases/download/v1.5.0/tranquilpeak-hexo-theme-built-for-production-1.5.0.zip" target="_blank" rel="external">tranquilpeak-hexo-theme-prod-1.5.0</a>  </li>
 <li>Follow <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/blob/master/docs/user.md" target="_blank" rel="external">user documentation</a> to install and configure the theme  </li>
 </ol>
-<h5 id="For_people_who_want_to_create_their_own_version_of_tranquilpeak_(developers)">For people who want to create their own version of tranquilpeak (developers)</h5><ol>
+<p><strong>For people who want to create their own version of tranquilpeak (developers)</strong> :</p>
+<ol>
 <li>Run <code>git clone https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme.git</code>  </li>
 <li>Follow <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/blob/master/docs/developer.md" target="_blank" rel="external">developer documentation</a> to edit and build the theme  </li>
 </ol>
 <h2 id="Demo">Demo</h2><p>Check out Tranquilpeak theme in live  : <a href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme">Tranquilpeak-hexo-theme demo</a></p>
-<div class="figure " style="width:300px;"><a class="fancybox" href="http://archive.globalgamejam.org/sites/default/files/uploads/2011/13965/ss1.jpg?1296360575" title="Game Blood 48:14 1" target="_blank" rel="external"><img class="fig-img" src="http://archive.globalgamejam.org/sites/default/files/uploads/2011/13965/ss1.jpg?1296360575" width="300px" height="" alt="Game Blood 48:14 1"></a><span class="caption">Game Blood 48:14 1</span></div>
 <h2 id="Showcase">Showcase</h2><p>I would like to create a showcase with all blogs having a customized version of tranquilpeak theme.<br>If you have customized the original version, please, add your blog into.</p>
-<h5 id="Via_an_issue">Via an issue</h5><ol>
+<p><strong>Via an issue</strong> :</p>
+<ol>
 <li>Create an issue with your blog url and a short description of your changes by clicking <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/issues/new?title=Add%20my%20blog%20into%20showcase&amp;body=Hey,%20check%20out%20my%20custom%20version%20of%20Tranquilpeak%20:%0D%0A*%20URL%20:%20%0D%0A*%20Changes%20[short%20description]%20:%20" target="_blank" rel="external">here</a> </li>
 </ol>
 <p>I will judge if the theme is enough customized to be added into showcase.</p>
 <h2 id="Documentation">Documentation</h2><p>If it’s your first time using Hexo, please check <a href="https://hexo.io/docs/" target="_blank" rel="external">Hexo official documentation</a></p>
-<h5 id="For_users">For users</h5><p>To install and configure the theme, consult the following documentation : <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/blob/master/docs/user.md" target="_blank" rel="external">user documentation</a>  </p>
-<h5 id="For_developers">For developers</h5><p>To understand better the code and edit  the theme, consult the following documentation : <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/blob/master/docs/developer.md" target="_blank" rel="external">developer documentation</a></p>
+<p><strong>For users</strong> :<br>To install and configure the theme, consult the following documentation : <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/blob/master/docs/user.md" target="_blank" rel="external">user documentation</a>  </p>
+<p><strong>For developers</strong> :<br>To understand better the code and edit  the theme, consult the following documentation : <a href="https://github.com/LouisBarranqueiro/tranquilpeak-hexo-theme/blob/master/docs/developer.md" target="_blank" rel="external">developer documentation</a></p>
 <h2 id="Contributing">Contributing</h2><p><a href="https://gitter.im/LouisBarranqueiro/tranquilpeak-hexo-theme?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge&amp;utm_content=badge" target="_blank" rel="external"><img src="https://badges.gitter.im/Join%20Chat.svg" alt="Join the chat at https://gitter.im/LouisBarranqueiro/tranquilpeak-hexo-theme"></a></p>
 <p>All kinds of contributions (enhancements, new features, documentation &amp; code improvements, issues &amp; bugs reporting) are welcome.</p>
 <p>All pull requests must be done on the <code>dev</code> branch.</p>
@@ -269,7 +273,7 @@
     <link href="http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2014/10/29/Tags-plugins-showcase/"/>
     <id>http://louisbarranqueiro.github.io/tranquilpeak-hexo-theme/2014/10/29/Tags-plugins-showcase/</id>
     <published>2014-10-29T20:30:05.000Z</published>
-    <updated>2015-12-11T17:38:36.000Z</updated>
+    <updated>2015-12-13T20:37:26.000Z</updated>
     <content type="html"><![CDATA[<p>This post is used to show how tag plugins are displayed. See <a href="http://zespia.tw/hexo/docs/tag-plugins.html" target="_blank" rel="external">docs</a> for more info.<br><a id="more"></a></p>
 <h2 id="Block_Quote_(blockquote)">Block Quote (blockquote)</h2><h3 id="Normal_blockquote">Normal blockquote</h3><blockquote>
 <p>Praesent diam elit, interdum ut pulvinar placerat, imperdiet at magna.</p>
@@ -281,36 +285,35 @@
 <h3 id="Quote_from_an_article_on_the_web">Quote from an article on the web</h3><blockquote><p>Every interaction is both precious and an opportunity to delight.</p>
 <footer><strong>Seth Godin</strong><cite><a href="http://sethgodin.typepad.com/seths_blog/2009/07/welcome-to-island-marketing.html" target="_blank" rel="external">Welcome to Island Marketing</a></cite></footer></blockquote>
 <h2 id="Wide_image_(wide_image)">Wide image (wide_image)</h2><!-- endcontent --><div class="figure figure--fullWidth"><img class="figure-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-1.jpg" alt="Mercedes SLS"><span class="caption">Mercedes SLS</span></div><!-- content -->
-<h2 id="Image_(image)">Image (image)</h2><div class="figure fig-100"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-15.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-15-750.jpg" width="" height="" alt=""></a></div>
-<div class="figure fig-100"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-15.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-15-750.jpg" width="50%" height="" alt=""></a></div>
-<div class="figure nocaption fig-50"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-4.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-4-375.jpg" ferrari""="" width="" height="" alt=""></a></div>
-<div class="figure nocaption fig-50"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-12.jpg" title="BMW i8 Concept" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-12-375.jpg" width="" height="" alt="BMW i8 Concept"></a></div>
-<div class="figure nocaption fig-33"><a class="fancybox" href="" title="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-14-250.jpg"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-14.jpg" width="" height="" alt="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-14-250.jpg"></a></div>
-<div class="figure nocaption fig-33"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-9.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-9-250.jpg" width="" height="" alt=""></a></div>
-<div class="figure nocaption fig-33"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-2.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-2-250.jpg" width="" height="" alt=""></a></div>
-<div class="figure right fig-75"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-11.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-11-560.jpg" width="" height="" alt=""></a></div>
-<div class="figure right fig-25"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-8.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-8-185.jpg" width="" height="" alt=""></a></div>
-<div class="figure right fig-25"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-10.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-10-185.jpg" width="" height="" alt=""></a></div>
-<div class="figure right fig-25"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-5.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-5-185.jpg" width="" height="" alt=""></a></div>
-<div class="figure fig-50"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-13.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-13-375.jpg" width="" height="" alt=""></a></div>
-<div class="figure fig-25"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-17.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-17-185.jpg" width="" height="" alt=""></a></div>
-<div class="figure fig-25"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-18.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-18-185.jpg" width="" height="" alt=""></a></div>
-<div class="figure fig-25"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-19.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-19-185.jpg" width="" height="" alt=""></a></div>
-<div class="figure fig-25"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-20.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-20-185.jpg" width="" height="" alt=""></a></div><div style="clear:both;"></div>
-<div class="figure fig-25"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-21.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-21-185.jpg" width="" height="" alt=""></a></div>
-<div class="figure fig-25"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-22.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-22-185.jpg" width="" height="" alt=""></a></div>
-<div class="figure fig-25"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-23.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-23-185.jpg" width="" height="" alt=""></a></div>
-<div class="figure fig-25"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-24.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-24-185.jpg" width="" height="" alt=""></a></div><div style="clear:both;"></div>
-<div class="figure fig-20"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-25-150.jpg" width="" height="" alt=""></div>
-<div class="figure fig-20"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-26-150.jpg" width="" height="" alt=""></div>
-<div class="figure fig-20"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-27-150.jpg" width="" height="" alt=""></div>
-<div class="figure fig-20"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-28-150.jpg" width="" height="" alt=""></div>
-<div class="figure fig-20"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-29-150.jpg" width="" height="" alt=""></div><div style="clear:both;"></div>
-<div class="figure fig-20"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-35-150.jpg" width="" height="" alt=""></div>
-<div class="figure fig-20"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-30-150.jpg" width="" height="" alt=""></div>
-<div class="figure fig-20"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-31-150.jpg" width="" height="" alt=""></div>
-<div class="figure fig-20"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-32-150.jpg" width="" height="" alt=""></div>
-<div class="figure fig-20"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-34-150.jpg" width="" height="" alt=""></div><div style="clear:both;"></div>
+<h2 id="Image_(image)">Image (image)</h2><div class="figure fig-100"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-15.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-15-750.jpg" alt=""></a></div>
+<div class="figure nocaption fig-50"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-4.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-4-375.jpg" ferrari""="" alt=""></a></div>
+<div class="figure nocaption fig-50"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-12.jpg" title="BMW i8 Concept" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-12-375.jpg" alt="BMW i8 Concept"></a></div>
+<div class="figure nocaption fig-33"><a class="fancybox" href="" title="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-14-250.jpg"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-14.jpg" alt="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-14-250.jpg"></a></div>
+<div class="figure nocaption fig-33"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-9.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-9-250.jpg" alt=""></a></div>
+<div class="figure nocaption fig-33"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-2.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-2-250.jpg" alt=""></a></div>
+<div class="figure right fig-75"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-11.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-11-560.jpg" alt=""></a></div>
+<div class="figure right fig-25"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-8.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-8-185.jpg" alt=""></a></div>
+<div class="figure right fig-25"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-10.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-10-185.jpg" alt=""></a></div>
+<div class="figure right fig-25"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-5.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-5-185.jpg" alt=""></a></div>
+<div class="figure fig-50"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-13.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-13-375.jpg" alt=""></a></div>
+<div class="figure fig-25"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-17.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-17-185.jpg" alt=""></a></div>
+<div class="figure fig-25"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-18.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-18-185.jpg" alt=""></a></div>
+<div class="figure fig-25"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-19.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-19-185.jpg" alt=""></a></div>
+<div class="figure fig-25"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-20.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-20-185.jpg" alt=""></a></div><div style="clear:both;"></div>
+<div class="figure fig-25"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-21.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-21-185.jpg" alt=""></a></div>
+<div class="figure fig-25"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-22.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-22-185.jpg" alt=""></a></div>
+<div class="figure fig-25"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-23.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-23-185.jpg" alt=""></a></div>
+<div class="figure fig-25"><a class="fancybox" href="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-24.jpg" title="" target="_blank" rel="external"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-24-185.jpg" alt=""></a></div><div style="clear:both;"></div>
+<div class="figure fig-20"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-25-150.jpg" alt=""></div>
+<div class="figure fig-20"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-26-150.jpg" alt=""></div>
+<div class="figure fig-20"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-27-150.jpg" alt=""></div>
+<div class="figure fig-20"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-28-150.jpg" alt=""></div>
+<div class="figure fig-20"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-29-150.jpg" alt=""></div><div style="clear:both;"></div>
+<div class="figure fig-20"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-35-150.jpg" alt=""></div>
+<div class="figure fig-20"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-30-150.jpg" alt=""></div>
+<div class="figure fig-20"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-31-150.jpg" alt=""></div>
+<div class="figure fig-20"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-32-150.jpg" alt=""></div>
+<div class="figure fig-20"><img class="fig-img" src="http://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-34-150.jpg" alt=""></div><div style="clear:both;"></div>
 <h2 id="Code_Block">Code Block</h2><h3 id="Normal_code_block">Normal code block</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">alert(&#39;Hello World!&#39;);</span><br></pre></td></tr></table></figure>
 <h3 id="With_caption">With caption</h3><figure class="highlight plain"><figcaption><span>Array.map</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">array.map(callback[, thisArg])</span><br></pre></td></tr></table></figure>
 <h3 id="With_caption_and_URL">With caption and URL</h3><figure class="highlight plain"><figcaption><span>.compact</span><a href="http://underscorejs.org/#compact" target="_blank" rel="external">Underscore.js</a></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">.compact([0, 1, false, 2, &#8216;&#8217;, 3]);&#10;=&#62; [1, 2, 3]</span><br></pre></td></tr></table></figure>
