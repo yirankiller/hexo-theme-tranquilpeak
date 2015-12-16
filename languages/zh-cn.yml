@@ -38,12 +38,12 @@ post:
     categorized_in: "发布在"
     tagged_in: "标签"
     toc: "目录"
-    read_more: "阅读全文"
+    read_more: "阅读全文　..."
     go_to_website: "转到"
     comment_and_share: "注释和共享"
 
 author:
     # 你的个人简介 (支持 Markdown 和 HTML 语法)
-    bio: ""
+    bio: "关注前端，关注 Javascript "
     # 你的工作简介
-    job: ""
+    job: "前端开发工程师"
